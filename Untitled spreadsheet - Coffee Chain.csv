@@ -1,0 +1,1063 @@
+Area Code,Difference Between Actual and Target Profit,Date,Inventory,Margin,Market Size,Market,Marketing,Number of Records,Product Line,Product Type,Product,Profit,Sales,State,Target Margin,Target Profit,Target Sales,Total Expenses,Type
+303,-35,10/1/2012,503,71,Major Market,Central,46,1,Leaves,Herbal Tea,Lemon,-$5,122,Colorado,60,30,90,76,Decaf
+970,-24,10/1/2012,405,71,Major Market,Central,17,1,Leaves,Herbal Tea,Mint,$26,123,Colorado,60,50,90,45,Decaf
+409,-22,10/1/2012,419,64,Major Market,South,13,1,Leaves,Herbal Tea,Lemon,$28,107,Texas,60,50,90,36,Decaf
+850,-15,10/1/2012,871,56,Major Market,East,10,1,Leaves,Tea,Darjeeling,$35,94,Florida,60,50,100,21,Regular
+562,6,10/1/2012,650,110,Major Market,West,23,1,Leaves,Tea,Green Tea,$56,182,California,60,50,80,54,Regular
+712,-29,10/1/2012,430,43,Small Market,Central,0,1,Beans,Espresso,Decaf Espresso,$31,43,Iowa,60,60,60,12,Decaf
+860,-29,10/1/2012,375,64,Small Market,East,15,1,Beans,Espresso,Decaf Espresso,$21,111,Connecticut,60,50,90,43,Decaf
+918,-39,10/1/2012,859,39,Small Market,South,7,1,Beans,Coffee,Decaf Irish Cream,$21,66,Oklahoma,60,60,90,18,Decaf
+775,-43,10/1/2012,1000,37,Small Market,West,9,1,Beans,Coffee,Decaf Irish Cream,$7,68,Nevada,60,50,90,30,Decaf
+435,-23,10/1/2012,881,59,Small Market,West,11,1,Beans,Espresso,Decaf Espresso,$37,99,Utah,60,60,80,22,Decaf
+603,-27,10/1/2012,310,71,Small Market,East,15,1,Beans,Coffee,Amaretto,$33,120,New Hampshire,60,60,90,38,Regular
+603,-26,10/1/2012,447,69,Small Market,East,14,1,Beans,Coffee,Colombian,$24,114,New Hampshire,60,50,90,45,Regular
+603,-37,10/1/2012,320,64,Small Market,East,41,1,Beans,Espresso,Caffe Mocha,-$7,109,New Hampshire,60,30,90,71,Regular
+318,-9,10/1/2012,-762,84,Small Market,South,54,1,Beans,Espresso,Caffe Latte,$1,144,Louisiana,60,10,90,83,Regular
+775,-32,10/1/2012,240,43,Small Market,West,12,1,Beans,Coffee,Colombian,-$2,77,Nevada,60,30,100,45,Regular
+503,-28,10/1/2012,404,66,Small Market,West,20,1,Beans,Espresso,Caffe Latte,$12,120,Oregon,60,40,100,54,Regular
+573,-36,10/1/2012,320,64,Small Market,Central,41,1,Leaves,Herbal Tea,Chamomile,-$6,109,Missouri,60,30,80,70,Decaf
+262,-15,10/1/2012,851,70,Small Market,Central,13,1,Leaves,Herbal Tea,Lemon,$45,118,Wisconsin,60,60,90,25,Decaf
+801,-27,10/1/2012,310,71,Small Market,West,15,1,Leaves,Herbal Tea,Chamomile,$33,120,Utah,60,60,90,38,Decaf
+425,-13,10/1/2012,829,71,Small Market,West,13,1,Leaves,Herbal Tea,Lemon,$47,119,Washington,60,60,90,24,Decaf
+860,-14,10/1/2012,881,59,Small Market,East,11,1,Leaves,Tea,Darjeeling,$36,99,Connecticut,60,50,100,23,Regular
+971,14,10/1/2012,788,123,Small Market,West,27,1,Leaves,Tea,Earl Grey,$64,205,Oregon,60,50,90,59,Regular
+971,26,10/1/2012,656,127,Small Market,West,28,1,Leaves,Tea,Green Tea,$76,218,Oregon,60,50,100,51,Regular
+915,-14,11/1/2012,536,52,Major Market,South,13,1,Beans,Coffee,Decaf Irish Cream,$26,92,Texas,60,40,100,26,Decaf
+210,8,11/1/2012,589,73,Major Market,South,14,1,Beans,Espresso,Decaf Espresso,$48,123,Texas,60,40,90,25,Decaf
+970,-13,11/1/2012,536,52,Major Market,Central,13,1,Beans,Coffee,Colombian,$27,92,Colorado,60,40,90,25,Regular
+774,-8,11/1/2012,554,68,Major Market,East,47,1,Beans,Espresso,Caffe Mocha,-$8,120,Massachusetts,60,0,110,76,Regular
+954,14,11/1/2012,1063,89,Major Market,East,23,1,Leaves,Herbal Tea,Mint,$44,164,Florida,60,30,110,45,Decaf
+936,1,11/1/2012,424,68,Major Market,South,14,1,Leaves,Herbal Tea,Lemon,$31,114,Texas,60,30,100,37,Decaf
+719,-5,11/1/2012,410,69,Major Market,Central,20,1,Leaves,Tea,Darjeeling,$15,124,Colorado,60,20,100,54,Regular
+847,8,11/1/2012,589,73,Major Market,Central,14,1,Leaves,Tea,Darjeeling,$48,123,Illinois,60,40,100,25,Regular
+719,-1,11/1/2012,1042,68,Major Market,Central,17,1,Leaves,Tea,Earl Grey,$29,125,Colorado,60,30,100,39,Regular
+339,-9,11/1/2012,862,52,Major Market,East,10,1,Leaves,Tea,Darjeeling,$31,88,Massachusetts,60,40,90,21,Regular
+314,-23,11/1/2012,836,48,Small Market,Central,9,1,Beans,Espresso,Decaf Espresso,$27,81,Missouri,60,50,100,21,Decaf
+504,-22,11/1/2012,856,47,Small Market,South,8,1,Beans,Coffee,Decaf Irish Cream,$28,78,Louisiana,60,50,90,19,Decaf
+580,-10,11/1/2012,862,52,Small Market,South,10,1,Beans,Coffee,Decaf Irish Cream,$30,88,Oklahoma,60,40,100,22,Decaf
+225,4,11/1/2012,454,71,Small Market,South,15,1,Beans,Espresso,Decaf Espresso,$34,120,Louisiana,60,30,90,37,Decaf
+262,-6,11/1/2012,391,67,Small Market,Central,20,1,Beans,Coffee,Amaretto,$14,121,Wisconsin,60,20,110,53,Regular
+603,-10,11/1/2012,316,67,Small Market,East,14,1,Beans,Coffee,Amaretto,$30,113,New Hampshire,60,40,100,37,Regular
+603,-10,11/1/2012,452,66,Small Market,East,14,1,Beans,Coffee,Colombian,$20,109,New Hampshire,60,30,90,46,Regular
+603,-18,11/1/2012,325,62,Small Market,East,40,1,Beans,Espresso,Caffe Mocha,-$8,106,New Hampshire,60,10,100,70,Regular
+225,19,11/1/2012,321,88,Small Market,South,16,1,Beans,Espresso,Caffe Mocha,$49,141,Louisiana,60,30,100,39,Regular
+425,-7,11/1/2012,391,67,Small Market,West,20,1,Beans,Espresso,Caffe Mocha,$13,121,Washington,60,20,110,54,Regular
+918,-7,11/1/2012,391,67,Small Market,South,20,1,Leaves,Herbal Tea,Chamomile,$13,121,Oklahoma,60,20,110,54,Decaf
+801,0,11/1/2012,316,67,Small Market,West,14,1,Leaves,Herbal Tea,Chamomile,$30,113,Utah,60,30,100,37,Decaf
+435,-10,11/1/2012,452,66,Small Market,West,14,1,Leaves,Herbal Tea,Lemon,$20,109,Utah,60,30,100,46,Decaf
+509,4,11/1/2012,834,68,Small Market,West,13,1,Leaves,Herbal Tea,Lemon,$44,115,Washington,60,40,100,24,Decaf
+203,-7,11/1/2012,809,54,Small Market,East,10,1,Leaves,Tea,Green Tea,$33,90,Connecticut,60,40,90,21,Regular
+206,1,11/1/2012,613,86,Small Market,West,55,1,Leaves,Tea,Green Tea,$1,147,Washington,60,0,100,85,Regular
+682,-10,12/1/2012,531,56,Major Market,South,14,1,Beans,Coffee,Decaf Irish Cream,$30,99,Texas,60,40,110,26,Decaf
+214,12,12/1/2012,601,79,Major Market,South,15,1,Beans,Espresso,Decaf Espresso,$52,133,Texas,60,40,100,27,Decaf
+970,-6,12/1/2012,521,65,Major Market,Central,42,1,Leaves,Herbal Tea,Lemon,-$6,112,Colorado,60,0,100,71,Decaf
+303,-1,12/1/2012,424,73,Major Market,Central,17,1,Leaves,Herbal Tea,Mint,$29,127,Colorado,60,30,110,44,Decaf
+954,3,12/1/2012,403,80,Major Market,East,24,1,Leaves,Herbal Tea,Lemon,$23,145,Florida,60,20,100,57,Decaf
+561,20,12/1/2012,1079,96,Major Market,East,24,1,Leaves,Herbal Tea,Mint,$50,176,Florida,60,30,120,46,Decaf
+469,-2,12/1/2012,424,73,Major Market,South,17,1,Leaves,Herbal Tea,Chamomile,$28,127,Texas,60,30,110,45,Decaf
+214,-6,12/1/2012,435,60,Major Market,South,13,1,Leaves,Herbal Tea,Lemon,$24,101,Texas,60,30,90,36,Decaf
+619,3,12/1/2012,601,79,Major Market,West,15,1,Leaves,Tea,Earl Grey,$53,133,California,60,50,90,26,Regular
+314,-23,12/1/2012,844,46,Small Market,Central,8,1,Beans,Espresso,Decaf Espresso,$27,77,Missouri,60,50,90,19,Decaf
+225,-19,12/1/2012,863,51,Small Market,South,9,1,Beans,Coffee,Decaf Irish Cream,$31,85,Louisiana,60,50,100,20,Decaf
+580,-22,12/1/2012,870,49,Small Market,South,9,1,Beans,Coffee,Decaf Irish Cream,$28,82,Oklahoma,60,50,90,21,Decaf
+603,-2,12/1/2012,462,74,Small Market,East,15,1,Beans,Coffee,Colombian,$28,122,New Hampshire,60,30,100,46,Regular
+985,-3,12/1/2012,-1053,76,Small Market,South,49,1,Beans,Espresso,Caffe Latte,-$3,131,Louisiana,60,0,100,79,Regular
+505,-15,12/1/2012,335,69,Small Market,South,44,1,Beans,Espresso,Caffe Mocha,-$5,118,New Mexico,60,10,90,74,Regular
+775,-19,12/1/2012,250,49,Small Market,West,14,1,Beans,Coffee,Colombian,$1,88,Nevada,60,20,100,48,Regular
+417,-5,12/1/2012,335,69,Small Market,Central,44,1,Leaves,Herbal Tea,Chamomile,-$5,118,Missouri,60,0,100,74,Decaf
+920,0,12/1/2012,320,66,Small Market,Central,12,1,Leaves,Herbal Tea,Chamomile,$30,107,Wisconsin,60,30,90,36,Decaf
+573,-4,12/1/2012,1898,68,Small Market,Central,28,1,Leaves,Herbal Tea,Lemon,$16,160,Missouri,60,20,140,52,Decaf
+475,7,12/1/2012,619,85,Small Market,East,25,1,Leaves,Herbal Tea,Lemon,$27,153,Connecticut,60,20,110,58,Decaf
+475,-4,12/1/2012,1075,76,Small Market,East,19,1,Leaves,Herbal Tea,Mint,$36,139,Connecticut,60,40,100,40,Decaf
+435,-3,12/1/2012,1898,68,Small Market,West,28,1,Leaves,Herbal Tea,Mint,$17,160,Utah,60,20,140,51,Decaf
+920,-3,12/1/2012,627,76,Small Market,Central,49,1,Leaves,Tea,Earl Grey,-$3,131,Wisconsin,60,0,100,79,Regular
+720,-37,10/1/2013,503,71,Major Market,Central,46,1,Leaves,Herbal Tea,Lemon,-$7,130,Colorado,60,30,90,76,Decaf
+970,-11,10/1/2013,405,71,Major Market,Central,17,1,Leaves,Herbal Tea,Mint,$39,131,Colorado,60,50,90,45,Decaf
+430,-8,10/1/2013,419,64,Major Market,South,13,1,Leaves,Herbal Tea,Lemon,$42,114,Texas,60,50,90,36,Decaf
+561,2,10/1/2013,871,56,Major Market,East,10,1,Leaves,Tea,Darjeeling,$52,100,Florida,60,50,100,21,Regular
+510,33,10/1/2013,650,110,Major Market,West,23,1,Leaves,Tea,Green Tea,$83,194,California,60,50,80,54,Regular
+563,-14,10/1/2013,430,43,Small Market,Central,0,1,Beans,Espresso,Decaf Espresso,$46,46,Iowa,60,60,60,12,Decaf
+203,-19,10/1/2013,375,64,Small Market,East,15,1,Beans,Espresso,Decaf Espresso,$31,118,Connecticut,60,50,90,43,Decaf
+405,-29,10/1/2013,859,39,Small Market,South,7,1,Beans,Coffee,Decaf Irish Cream,$31,70,Oklahoma,60,60,90,18,Decaf
+775,-40,10/1/2013,1000,37,Small Market,West,9,1,Beans,Coffee,Decaf Irish Cream,$10,72,Nevada,60,50,90,30,Decaf
+435,-5,10/1/2013,881,59,Small Market,West,11,1,Beans,Espresso,Decaf Espresso,$55,106,Utah,60,60,80,22,Decaf
+603,-11,10/1/2013,310,71,Small Market,East,15,1,Beans,Coffee,Amaretto,$49,128,New Hampshire,60,60,90,38,Regular
+603,-14,10/1/2013,447,69,Small Market,East,14,1,Beans,Coffee,Colombian,$36,121,New Hampshire,60,50,90,45,Regular
+603,-40,10/1/2013,320,64,Small Market,East,41,1,Beans,Espresso,Caffe Mocha,-$10,116,New Hampshire,60,30,90,71,Regular
+504,-9,10/1/2013,-762,84,Small Market,South,54,1,Beans,Espresso,Caffe Latte,$1,153,Louisiana,60,10,90,83,Regular
+702,-33,10/1/2013,240,43,Small Market,West,12,1,Beans,Coffee,Colombian,-$3,82,Nevada,60,30,100,45,Regular
+971,-22,10/1/2013,404,66,Small Market,West,20,1,Beans,Espresso,Caffe Latte,$18,128,Oregon,60,40,100,54,Regular
+573,-39,10/1/2013,320,64,Small Market,Central,41,1,Leaves,Herbal Tea,Chamomile,-$9,116,Missouri,60,30,80,70,Decaf
+262,7,10/1/2013,851,70,Small Market,Central,13,1,Leaves,Herbal Tea,Lemon,$67,126,Wisconsin,60,60,90,25,Decaf
+801,-11,10/1/2013,310,71,Small Market,West,15,1,Leaves,Herbal Tea,Chamomile,$49,128,Utah,60,60,90,38,Decaf
+509,10,10/1/2013,829,71,Small Market,West,13,1,Leaves,Herbal Tea,Lemon,$70,127,Washington,60,60,90,24,Decaf
+475,3,10/1/2013,881,59,Small Market,East,11,1,Leaves,Tea,Darjeeling,$53,106,Connecticut,60,50,100,23,Regular
+503,45,10/1/2013,788,123,Small Market,West,27,1,Leaves,Tea,Earl Grey,$95,218,Oregon,60,50,90,59,Regular
+541,63,10/1/2013,656,127,Small Market,West,28,1,Leaves,Tea,Green Tea,$113,232,Oregon,60,50,100,51,Regular
+936,-1,11/1/2013,536,52,Major Market,South,13,1,Beans,Coffee,Decaf Irish Cream,$39,98,Texas,60,40,100,26,Decaf
+254,31,11/1/2013,589,73,Major Market,South,14,1,Beans,Espresso,Decaf Espresso,$71,131,Texas,60,40,90,25,Decaf
+719,0,11/1/2013,536,52,Major Market,Central,13,1,Beans,Coffee,Colombian,$40,98,Colorado,60,40,90,25,Regular
+339,-12,11/1/2013,554,68,Major Market,East,47,1,Beans,Espresso,Caffe Mocha,-$12,128,Massachusetts,60,0,110,76,Regular
+561,35,11/1/2013,1063,89,Major Market,East,23,1,Leaves,Herbal Tea,Mint,$65,175,Florida,60,30,110,45,Decaf
+806,16,11/1/2013,424,68,Major Market,South,14,1,Leaves,Herbal Tea,Lemon,$46,121,Texas,60,30,100,37,Decaf
+719,2,11/1/2013,410,69,Major Market,Central,20,1,Leaves,Tea,Darjeeling,$22,132,Colorado,60,20,100,54,Regular
+708,31,11/1/2013,589,73,Major Market,Central,14,1,Leaves,Tea,Darjeeling,$71,131,Illinois,60,40,100,25,Regular
+719,13,11/1/2013,1042,68,Major Market,Central,17,1,Leaves,Tea,Earl Grey,$43,133,Colorado,60,30,100,39,Regular
+351,6,11/1/2013,862,52,Major Market,East,10,1,Leaves,Tea,Darjeeling,$46,94,Massachusetts,60,40,90,21,Regular
+636,-10,11/1/2013,836,48,Small Market,Central,9,1,Beans,Espresso,Decaf Espresso,$40,86,Missouri,60,50,100,21,Decaf
+504,-8,11/1/2013,856,47,Small Market,South,8,1,Beans,Coffee,Decaf Irish Cream,$42,83,Louisiana,60,50,90,19,Decaf
+580,5,11/1/2013,862,52,Small Market,South,10,1,Beans,Coffee,Decaf Irish Cream,$45,94,Oklahoma,60,40,100,22,Decaf
+337,20,11/1/2013,454,71,Small Market,South,15,1,Beans,Espresso,Decaf Espresso,$50,128,Louisiana,60,30,90,37,Decaf
+262,1,11/1/2013,391,67,Small Market,Central,20,1,Beans,Coffee,Amaretto,$21,129,Wisconsin,60,20,110,53,Regular
+603,5,11/1/2013,316,67,Small Market,East,14,1,Beans,Coffee,Amaretto,$45,120,New Hampshire,60,40,100,37,Regular
+603,0,11/1/2013,452,66,Small Market,East,14,1,Beans,Coffee,Colombian,$30,116,New Hampshire,60,30,90,46,Regular
+603,-22,11/1/2013,325,62,Small Market,East,40,1,Beans,Espresso,Caffe Mocha,-$12,113,New Hampshire,60,10,100,70,Regular
+318,43,11/1/2013,321,88,Small Market,South,16,1,Beans,Espresso,Caffe Mocha,$73,150,Louisiana,60,30,100,39,Regular
+206,-1,11/1/2013,391,67,Small Market,West,20,1,Beans,Espresso,Caffe Mocha,$19,129,Washington,60,20,110,54,Regular
+580,-1,11/1/2013,391,67,Small Market,South,20,1,Leaves,Herbal Tea,Chamomile,$19,129,Oklahoma,60,20,110,54,Decaf
+435,15,11/1/2013,316,67,Small Market,West,14,1,Leaves,Herbal Tea,Chamomile,$45,120,Utah,60,30,100,37,Decaf
+435,0,11/1/2013,452,66,Small Market,West,14,1,Leaves,Herbal Tea,Lemon,$30,116,Utah,60,30,100,46,Decaf
+253,25,11/1/2013,834,68,Small Market,West,13,1,Leaves,Herbal Tea,Lemon,$65,123,Washington,60,40,100,24,Decaf
+203,9,11/1/2013,809,54,Small Market,East,10,1,Leaves,Tea,Green Tea,$49,96,Connecticut,60,40,90,21,Regular
+509,1,11/1/2013,613,86,Small Market,West,55,1,Leaves,Tea,Green Tea,$1,157,Washington,60,0,100,85,Regular
+956,5,12/1/2013,531,56,Major Market,South,14,1,Beans,Coffee,Decaf Irish Cream,$45,106,Texas,60,40,110,26,Decaf
+430,37,12/1/2013,601,79,Major Market,South,15,1,Beans,Espresso,Decaf Espresso,$77,142,Texas,60,40,100,27,Decaf
+719,-9,12/1/2013,521,65,Major Market,Central,42,1,Leaves,Herbal Tea,Lemon,-$9,119,Colorado,60,0,100,71,Decaf
+970,13,12/1/2013,424,73,Major Market,Central,17,1,Leaves,Herbal Tea,Mint,$43,135,Colorado,60,30,110,44,Decaf
+305,14,12/1/2013,403,80,Major Market,East,24,1,Leaves,Herbal Tea,Lemon,$34,155,Florida,60,20,100,57,Decaf
+407,44,12/1/2013,1079,96,Major Market,East,24,1,Leaves,Herbal Tea,Mint,$74,188,Florida,60,30,120,46,Decaf
+325,12,12/1/2013,424,73,Major Market,South,17,1,Leaves,Herbal Tea,Chamomile,$42,135,Texas,60,30,110,45,Decaf
+430,6,12/1/2013,435,60,Major Market,South,13,1,Leaves,Herbal Tea,Lemon,$36,108,Texas,60,30,90,36,Decaf
+408,29,12/1/2013,601,79,Major Market,West,15,1,Leaves,Tea,Earl Grey,$79,142,California,60,50,90,26,Regular
+816,-10,12/1/2013,844,46,Small Market,Central,8,1,Beans,Espresso,Decaf Espresso,$40,82,Missouri,60,50,90,19,Decaf
+337,-4,12/1/2013,863,51,Small Market,South,9,1,Beans,Coffee,Decaf Irish Cream,$46,91,Louisiana,60,50,100,20,Decaf
+918,-8,12/1/2013,870,49,Small Market,South,9,1,Beans,Coffee,Decaf Irish Cream,$42,87,Oklahoma,60,50,90,21,Decaf
+603,12,12/1/2013,462,74,Small Market,East,15,1,Beans,Coffee,Colombian,$42,130,New Hampshire,60,30,100,46,Regular
+225,-4,12/1/2013,-1053,76,Small Market,South,49,1,Beans,Espresso,Caffe Latte,-$4,140,Louisiana,60,0,100,79,Regular
+505,-17,12/1/2013,335,69,Small Market,South,44,1,Beans,Espresso,Caffe Mocha,-$7,126,New Mexico,60,10,90,74,Regular
+702,-19,12/1/2013,250,49,Small Market,West,14,1,Beans,Coffee,Colombian,$1,94,Nevada,60,20,100,48,Regular
+314,-7,12/1/2013,335,69,Small Market,Central,44,1,Leaves,Herbal Tea,Chamomile,-$7,126,Missouri,60,0,100,74,Decaf
+920,15,12/1/2013,320,66,Small Market,Central,12,1,Leaves,Herbal Tea,Chamomile,$45,114,Wisconsin,60,30,90,36,Decaf
+417,4,12/1/2013,1898,68,Small Market,Central,28,1,Leaves,Herbal Tea,Lemon,$24,171,Missouri,60,20,140,52,Decaf
+860,20,12/1/2013,619,85,Small Market,East,25,1,Leaves,Herbal Tea,Lemon,$40,163,Connecticut,60,20,110,58,Decaf
+203,13,12/1/2013,1075,76,Small Market,East,19,1,Leaves,Herbal Tea,Mint,$53,148,Connecticut,60,40,100,40,Decaf
+435,5,12/1/2013,1898,68,Small Market,West,28,1,Leaves,Herbal Tea,Mint,$25,171,Utah,60,20,140,51,Decaf
+262,-4,12/1/2013,627,76,Small Market,Central,49,1,Leaves,Tea,Earl Grey,-$4,140,Wisconsin,60,0,100,79,Regular
+719,-23,10/1/2012,541,51,Major Market,Central,12,1,Beans,Coffee,Colombian,$27,90,Colorado,50,50,80,24,Regular
+305,8,10/1/2012,1055,94,Major Market,East,24,1,Leaves,Herbal Tea,Mint,$48,174,Florida,50,40,90,46,Decaf
+303,-17,10/1/2012,404,66,Major Market,Central,20,1,Leaves,Tea,Darjeeling,$13,120,Colorado,50,30,80,53,Regular
+303,-13,10/1/2012,1037,64,Major Market,Central,16,1,Leaves,Tea,Earl Grey,$27,118,Colorado,50,40,80,37,Regular
+508,-30,10/1/2012,859,39,Major Market,East,7,1,Leaves,Tea,Darjeeling,$20,66,Massachusetts,50,50,70,19,Regular
+209,29,10/1/2012,580,111,Major Market,West,21,1,Leaves,Tea,Earl Grey,$79,187,California,50,50,80,32,Regular
+715,-40,10/1/2012,573,29,Small Market,Central,7,1,Beans,Espresso,Decaf Espresso,$10,51,Wisconsin,50,50,70,19,Decaf
+319,-32,10/1/2012,800,35,Small Market,Central,6,1,Beans,Espresso,Caffe Mocha,$18,58,Iowa,50,50,70,17,Regular
+959,4,10/1/2012,593,98,Small Market,East,30,1,Leaves,Herbal Tea,Lemon,$34,177,Connecticut,50,30,90,64,Decaf
+860,-15,10/1/2012,1053,77,Small Market,East,20,1,Leaves,Herbal Tea,Mint,$35,142,Connecticut,50,50,80,42,Decaf
+262,-10,10/1/2012,449,67,Small Market,Central,14,1,Leaves,Tea,Darjeeling,$30,113,Wisconsin,50,40,70,37,Regular
+715,0,10/1/2012,606,84,Small Market,Central,54,1,Leaves,Tea,Earl Grey,$0,144,Wisconsin,50,0,90,84,Regular
+206,17,10/1/2012,329,99,Small Market,West,18,1,Leaves,Tea,Darjeeling,$57,159,Washington,50,40,70,42,Regular
+773,-3,11/1/2012,536,52,Major Market,Central,13,1,Leaves,Herbal Tea,Lemon,$27,92,Illinois,50,30,80,25,Decaf
+614,-10,11/1/2012,862,52,Major Market,Central,10,1,Leaves,Herbal Tea,Lemon,$30,88,Ohio,50,40,80,22,Decaf
+617,-5,11/1/2012,410,69,Major Market,East,20,1,Leaves,Herbal Tea,Lemon,$15,124,Massachusetts,50,20,90,54,Decaf
+707,-3,11/1/2012,536,52,Major Market,West,13,1,Leaves,Herbal Tea,Mint,$27,92,California,50,30,80,25,Decaf
+352,-17,11/1/2012,875,42,Major Market,East,7,1,Leaves,Tea,Darjeeling,$23,70,Florida,50,40,70,19,Regular
+561,-12,11/1/2012,856,47,Major Market,East,8,1,Leaves,Tea,Green Tea,$28,78,Florida,50,40,80,19,Regular
+351,-11,11/1/2012,482,48,Major Market,East,8,1,Leaves,Tea,Green Tea,$29,80,Massachusetts,50,40,80,19,Regular
+650,7,11/1/2012,589,73,Major Market,West,14,1,Leaves,Tea,Earl Grey,$47,123,California,50,40,80,26,Regular
+712,-9,11/1/2012,387,43,Small Market,Central,0,1,Beans,Espresso,Decaf Espresso,$31,43,Iowa,50,40,50,12,Decaf
+505,-18,11/1/2012,1804,40,Small Market,South,25,1,Beans,Coffee,Decaf Irish Cream,-$8,122,New Mexico,50,10,140,48,Decaf
+515,-24,11/1/2012,802,34,Small Market,Central,6,1,Beans,Espresso,Caffe Mocha,$16,56,Iowa,50,40,70,18,Regular
+505,-7,11/1/2012,325,62,Small Market,South,40,1,Beans,Espresso,Caffe Mocha,-$7,106,New Mexico,50,0,80,69,Regular
+775,-14,11/1/2012,243,41,Small Market,West,12,1,Beans,Coffee,Colombian,-$4,74,Nevada,50,10,80,45,Regular
+573,-8,11/1/2012,325,62,Small Market,Central,40,1,Leaves,Herbal Tea,Chamomile,-$8,106,Missouri,50,0,90,70,Decaf
+262,-13,11/1/2012,856,47,Small Market,Central,8,1,Leaves,Herbal Tea,Lemon,$27,78,Wisconsin,50,40,70,20,Decaf
+475,8,11/1/2012,1060,81,Small Market,East,21,1,Leaves,Herbal Tea,Mint,$38,150,Connecticut,50,30,100,43,Decaf
+262,13,11/1/2012,454,71,Small Market,Central,15,1,Leaves,Tea,Darjeeling,$33,120,Wisconsin,50,20,90,38,Regular
+206,4,11/1/2012,454,71,Small Market,West,15,1,Leaves,Tea,Earl Grey,$34,120,Washington,50,30,80,37,Regular
+970,-1,12/1/2012,531,56,Major Market,Central,14,1,Beans,Coffee,Colombian,$29,99,Colorado,50,30,90,27,Regular
+614,4,12/1/2012,435,60,Major Market,Central,13,1,Beans,Coffee,Colombian,$24,101,Ohio,50,20,90,36,Regular
+339,-10,12/1/2012,571,52,Major Market,East,42,1,Beans,Espresso,Caffe Mocha,-$20,99,Massachusetts,50,-10,90,72,Regular
+773,-1,12/1/2012,531,56,Major Market,Central,14,1,Leaves,Herbal Tea,Lemon,$29,99,Illinois,50,30,90,27,Decaf
+805,-1,12/1/2012,531,56,Major Market,West,14,1,Leaves,Herbal Tea,Mint,$29,99,California,50,30,90,27,Decaf
+303,-4,12/1/2012,422,57,Major Market,Central,17,1,Leaves,Tea,Darjeeling,$6,103,Colorado,50,10,80,51,Regular
+303,6,12/1/2012,1054,63,Major Market,Central,16,1,Leaves,Tea,Earl Grey,$26,116,Colorado,50,20,90,37,Regular
+617,-11,12/1/2012,870,49,Major Market,East,9,1,Leaves,Tea,Darjeeling,$29,82,Massachusetts,50,40,80,20,Regular
+863,-10,12/1/2012,863,51,Major Market,East,9,1,Leaves,Tea,Green Tea,$30,85,Florida,50,40,80,21,Regular
+641,-8,12/1/2012,344,43,Small Market,Central,0,1,Beans,Espresso,Decaf Espresso,$32,43,Iowa,50,40,50,11,Decaf
+225,7,12/1/2012,466,63,Small Market,South,13,1,Beans,Espresso,Decaf Espresso,$27,106,Louisiana,50,20,80,36,Decaf
+702,-22,12/1/2012,1009,38,Small Market,West,9,1,Beans,Coffee,Decaf Irish Cream,$8,69,Nevada,50,30,80,30,Decaf
+515,-23,12/1/2012,807,35,Small Market,Central,6,1,Beans,Espresso,Caffe Mocha,$17,58,Iowa,50,40,70,18,Regular
+985,11,12/1/2012,320,66,Small Market,South,12,1,Beans,Espresso,Caffe Mocha,$31,107,Louisiana,50,20,80,35,Regular
+971,-4,12/1/2012,422,57,Small Market,West,17,1,Beans,Espresso,Caffe Latte,$6,103,Oregon,50,10,90,51,Regular
+262,8,12/1/2012,466,63,Small Market,Central,13,1,Leaves,Tea,Darjeeling,$28,106,Wisconsin,50,20,80,35,Regular
+959,-12,12/1/2012,818,49,Small Market,East,9,1,Leaves,Tea,Green Tea,$28,82,Connecticut,50,40,80,21,Regular
+435,-4,12/1/2012,335,69,Small Market,West,44,1,Leaves,Tea,Darjeeling,-$4,118,Utah,50,0,80,73,Regular
+360,7,12/1/2012,627,76,Small Market,West,49,1,Leaves,Tea,Green Tea,-$3,131,Washington,50,-10,90,79,Regular
+303,-10,10/1/2013,541,51,Major Market,Central,12,1,Beans,Coffee,Colombian,$40,96,Colorado,50,50,80,24,Regular
+904,31,10/1/2013,1055,94,Major Market,East,24,1,Leaves,Herbal Tea,Mint,$71,185,Florida,50,40,90,46,Decaf
+720,-11,10/1/2013,404,66,Major Market,Central,20,1,Leaves,Tea,Darjeeling,$19,128,Colorado,50,30,80,53,Regular
+970,0,10/1/2013,1037,64,Major Market,Central,16,1,Leaves,Tea,Earl Grey,$40,126,Colorado,50,40,80,37,Regular
+978,-20,10/1/2013,859,39,Major Market,East,7,1,Leaves,Tea,Darjeeling,$30,70,Massachusetts,50,50,70,19,Regular
+626,67,10/1/2013,580,111,Major Market,West,21,1,Leaves,Tea,Earl Grey,$117,199,California,50,50,80,32,Regular
+262,-35,10/1/2013,573,29,Small Market,Central,7,1,Beans,Espresso,Decaf Espresso,$15,54,Wisconsin,50,50,70,19,Decaf
+641,-23,10/1/2013,800,35,Small Market,Central,6,1,Beans,Espresso,Caffe Mocha,$27,62,Iowa,50,50,70,17,Regular
+203,20,10/1/2013,593,98,Small Market,East,30,1,Leaves,Herbal Tea,Lemon,$50,189,Connecticut,50,30,90,64,Decaf
+203,2,10/1/2013,1053,77,Small Market,East,20,1,Leaves,Herbal Tea,Mint,$52,151,Connecticut,50,50,80,42,Decaf
+262,5,10/1/2013,449,67,Small Market,Central,14,1,Leaves,Tea,Darjeeling,$45,120,Wisconsin,50,40,70,37,Regular
+262,0,10/1/2013,606,84,Small Market,Central,54,1,Leaves,Tea,Earl Grey,$0,153,Wisconsin,50,0,90,84,Regular
+425,45,10/1/2013,329,99,Small Market,West,18,1,Leaves,Tea,Darjeeling,$85,169,Washington,50,40,70,42,Regular
+312,10,11/1/2013,536,52,Major Market,Central,13,1,Leaves,Herbal Tea,Lemon,$40,98,Illinois,50,30,80,25,Decaf
+419,5,11/1/2013,862,52,Major Market,Central,10,1,Leaves,Herbal Tea,Lemon,$45,94,Ohio,50,40,80,22,Decaf
+857,2,11/1/2013,410,69,Major Market,East,20,1,Leaves,Herbal Tea,Lemon,$22,132,Massachusetts,50,20,90,54,Decaf
+323,10,11/1/2013,536,52,Major Market,West,13,1,Leaves,Herbal Tea,Mint,$40,98,California,50,30,80,25,Decaf
+352,-6,11/1/2013,875,42,Major Market,East,7,1,Leaves,Tea,Darjeeling,$34,75,Florida,50,40,70,19,Regular
+904,2,11/1/2013,856,47,Major Market,East,8,1,Leaves,Tea,Green Tea,$42,83,Florida,50,40,80,19,Regular
+978,3,11/1/2013,482,48,Major Market,East,8,1,Leaves,Tea,Green Tea,$43,85,Massachusetts,50,40,80,19,Regular
+760,30,11/1/2013,589,73,Major Market,West,14,1,Leaves,Tea,Earl Grey,$70,131,California,50,40,80,26,Regular
+515,6,11/1/2013,387,43,Small Market,Central,0,1,Beans,Espresso,Decaf Espresso,$46,46,Iowa,50,40,50,12,Decaf
+505,-22,11/1/2013,1804,40,Small Market,South,25,1,Beans,Coffee,Decaf Irish Cream,-$12,130,New Mexico,50,10,140,48,Decaf
+515,-16,11/1/2013,802,34,Small Market,Central,6,1,Beans,Espresso,Caffe Mocha,$24,60,Iowa,50,40,70,18,Regular
+505,-10,11/1/2013,325,62,Small Market,South,40,1,Beans,Espresso,Caffe Mocha,-$10,113,New Mexico,50,0,80,69,Regular
+775,-16,11/1/2013,243,41,Small Market,West,12,1,Beans,Coffee,Colombian,-$6,79,Nevada,50,10,80,45,Regular
+314,-12,11/1/2013,325,62,Small Market,Central,40,1,Leaves,Herbal Tea,Chamomile,-$12,113,Missouri,50,0,90,70,Decaf
+715,0,11/1/2013,856,47,Small Market,Central,8,1,Leaves,Herbal Tea,Lemon,$40,83,Wisconsin,50,40,70,20,Decaf
+959,26,11/1/2013,1060,81,Small Market,East,21,1,Leaves,Herbal Tea,Mint,$56,160,Connecticut,50,30,100,43,Decaf
+715,29,11/1/2013,454,71,Small Market,Central,15,1,Leaves,Tea,Darjeeling,$49,128,Wisconsin,50,20,90,38,Regular
+206,20,11/1/2013,454,71,Small Market,West,15,1,Leaves,Tea,Earl Grey,$50,128,Washington,50,30,80,37,Regular
+970,13,12/1/2013,531,56,Major Market,Central,14,1,Beans,Coffee,Colombian,$43,106,Colorado,50,30,90,27,Regular
+330,16,12/1/2013,435,60,Major Market,Central,13,1,Beans,Coffee,Colombian,$36,108,Ohio,50,20,90,36,Regular
+978,-20,12/1/2013,571,52,Major Market,East,42,1,Beans,Espresso,Caffe Mocha,-$30,106,Massachusetts,50,-10,90,72,Regular
+312,13,12/1/2013,531,56,Major Market,Central,14,1,Leaves,Herbal Tea,Lemon,$43,106,Illinois,50,30,90,27,Decaf
+323,13,12/1/2013,531,56,Major Market,West,14,1,Leaves,Herbal Tea,Mint,$43,106,California,50,30,90,27,Decaf
+303,-1,12/1/2013,422,57,Major Market,Central,17,1,Leaves,Tea,Darjeeling,$9,110,Colorado,50,10,80,51,Regular
+970,19,12/1/2013,1054,63,Major Market,Central,16,1,Leaves,Tea,Earl Grey,$39,124,Colorado,50,20,90,37,Regular
+978,3,12/1/2013,870,49,Major Market,East,9,1,Leaves,Tea,Darjeeling,$43,87,Massachusetts,50,40,80,20,Regular
+321,5,12/1/2013,863,51,Major Market,East,9,1,Leaves,Tea,Green Tea,$45,91,Florida,50,40,80,21,Regular
+563,7,12/1/2013,344,43,Small Market,Central,0,1,Beans,Espresso,Decaf Espresso,$47,46,Iowa,50,40,50,11,Decaf
+318,20,12/1/2013,466,63,Small Market,South,13,1,Beans,Espresso,Decaf Espresso,$40,113,Louisiana,50,20,80,36,Decaf
+775,-18,12/1/2013,1009,38,Small Market,West,9,1,Beans,Coffee,Decaf Irish Cream,$12,74,Nevada,50,30,80,30,Decaf
+515,-15,12/1/2013,807,35,Small Market,Central,6,1,Beans,Espresso,Caffe Mocha,$25,62,Iowa,50,40,70,18,Regular
+225,26,12/1/2013,320,66,Small Market,South,12,1,Beans,Espresso,Caffe Mocha,$46,114,Louisiana,50,20,80,35,Regular
+971,-1,12/1/2013,422,57,Small Market,West,17,1,Beans,Espresso,Caffe Latte,$9,110,Oregon,50,10,90,51,Regular
+262,22,12/1/2013,466,63,Small Market,Central,13,1,Leaves,Tea,Darjeeling,$42,113,Wisconsin,50,20,80,35,Regular
+959,2,12/1/2013,818,49,Small Market,East,9,1,Leaves,Tea,Green Tea,$42,87,Connecticut,50,40,80,21,Regular
+435,-6,12/1/2013,335,69,Small Market,West,44,1,Leaves,Tea,Darjeeling,-$6,126,Utah,50,0,80,73,Regular
+509,6,12/1/2013,627,76,Small Market,West,49,1,Leaves,Tea,Green Tea,-$4,140,Washington,50,-10,90,79,Regular
+630,-13,10/1/2012,541,51,Major Market,Central,12,1,Leaves,Herbal Tea,Lemon,$27,90,Illinois,40,40,60,24,Decaf
+209,-14,10/1/2012,541,51,Major Market,West,12,1,Leaves,Herbal Tea,Mint,$26,90,California,40,40,60,25,Decaf
+505,-36,10/1/2012,1698,23,Small Market,South,26,1,Beans,Coffee,Decaf Irish Cream,-$26,109,New Mexico,40,10,150,49,Decaf
+318,-10,10/1/2012,449,67,Small Market,South,14,1,Beans,Espresso,Decaf Espresso,$30,113,Louisiana,40,40,60,37,Decaf
+515,-23,10/1/2012,1000,37,Small Market,Central,9,1,Beans,Coffee,Colombian,$7,68,Iowa,40,30,60,30,Regular
+505,-16,10/1/2012,320,64,Small Market,South,41,1,Beans,Espresso,Caffe Mocha,-$6,109,New Mexico,40,10,60,70,Regular
+801,-12,10/1/2012,833,47,Small Market,West,8,1,Beans,Espresso,Caffe Latte,$28,79,Utah,40,40,60,19,Regular
+505,-24,10/1/2012,1000,37,Small Market,South,9,1,Leaves,Herbal Tea,Lemon,$6,68,New Mexico,40,30,50,31,Decaf
+636,-17,10/1/2012,244,53,Small Market,Central,12,1,Leaves,Tea,Darjeeling,$13,92,Missouri,40,30,60,40,Regular
+959,-22,10/1/2012,806,36,Small Market,East,6,1,Leaves,Tea,Green Tea,$18,60,Connecticut,40,40,60,18,Regular
+603,-8,10/1/2012,430,43,Small Market,East,0,1,Leaves,Tea,Green Tea,$32,43,New Hampshire,40,40,40,11,Regular
+801,-26,10/1/2012,320,64,Small Market,West,41,1,Leaves,Tea,Darjeeling,-$6,109,Utah,40,20,50,70,Regular
+206,-10,10/1/2012,606,84,Small Market,West,54,1,Leaves,Tea,Green Tea,$0,144,Washington,40,10,60,84,Regular
+937,-1,11/1/2012,482,48,Major Market,Central,8,1,Leaves,Herbal Tea,Chamomile,$29,80,Ohio,40,30,70,19,Decaf
+407,3,11/1/2012,391,67,Major Market,East,20,1,Leaves,Herbal Tea,Lemon,$13,121,Florida,40,10,80,54,Decaf
+715,-19,11/1/2012,570,30,Small Market,Central,7,1,Beans,Espresso,Decaf Espresso,$11,52,Wisconsin,40,30,60,19,Decaf
+505,-12,11/1/2012,248,47,Small Market,South,11,1,Beans,Espresso,Decaf Espresso,$8,82,New Mexico,40,20,60,39,Decaf
+775,-15,11/1/2012,1003,35,Small Market,West,8,1,Beans,Coffee,Decaf Irish Cream,$5,64,Nevada,40,20,70,30,Decaf
+563,-15,11/1/2012,1003,35,Small Market,Central,8,1,Beans,Coffee,Colombian,$5,64,Iowa,40,20,60,30,Regular
+603,-3,11/1/2012,211,42,Small Market,East,12,1,Beans,Espresso,Regular Espresso,-$3,76,New Hampshire,40,0,70,45,Regular
+918,-1,11/1/2012,482,48,Small Market,South,8,1,Beans,Espresso,Caffe Mocha,$29,80,Oklahoma,40,30,60,19,Regular
+775,1,11/1/2012,387,43,Small Market,West,0,1,Beans,Espresso,Caffe Latte,$31,43,Nevada,40,30,40,12,Regular
+435,-3,11/1/2012,836,48,Small Market,West,9,1,Beans,Espresso,Caffe Latte,$27,81,Utah,40,30,70,21,Regular
+573,-9,11/1/2012,1804,40,Small Market,Central,25,1,Leaves,Herbal Tea,Lemon,-$9,122,Missouri,40,0,110,49,Decaf
+801,-8,11/1/2012,1804,40,Small Market,West,25,1,Leaves,Herbal Tea,Mint,-$8,122,Utah,40,0,110,48,Decaf
+417,-1,11/1/2012,248,47,Small Market,Central,11,1,Leaves,Tea,Darjeeling,$9,82,Missouri,40,10,60,38,Regular
+636,-3,11/1/2012,211,42,Small Market,Central,12,1,Leaves,Tea,Earl Grey,-$3,76,Missouri,40,0,60,45,Regular
+314,-4,11/1/2012,243,41,Small Market,Central,12,1,Leaves,Tea,Green Tea,-$4,74,Missouri,40,0,60,45,Regular
+603,2,11/1/2012,387,43,Small Market,East,0,1,Leaves,Tea,Green Tea,$32,43,New Hampshire,40,30,40,11,Regular
+435,3,11/1/2012,325,62,Small Market,West,40,1,Leaves,Tea,Darjeeling,-$7,106,Utah,40,-10,70,69,Regular
+937,-5,12/1/2012,490,44,Major Market,Central,8,1,Leaves,Herbal Tea,Chamomile,$25,73,Ohio,40,30,60,19,Decaf
+330,-1,12/1/2012,870,49,Major Market,Central,9,1,Leaves,Herbal Tea,Lemon,$29,82,Ohio,40,30,70,20,Decaf
+508,-3,12/1/2012,422,57,Major Market,East,17,1,Leaves,Herbal Tea,Lemon,$7,103,Massachusetts,40,10,70,50,Decaf
+813,-4,12/1/2012,882,45,Major Market,East,8,1,Leaves,Tea,Darjeeling,$26,75,Florida,40,30,70,19,Regular
+857,-5,12/1/2012,490,44,Major Market,East,8,1,Leaves,Tea,Green Tea,$25,73,Massachusetts,40,30,70,19,Regular
+262,-17,12/1/2012,567,32,Small Market,Central,7,1,Beans,Espresso,Decaf Espresso,$13,56,Wisconsin,40,30,70,19,Decaf
+702,1,12/1/2012,344,43,Small Market,West,0,1,Beans,Espresso,Caffe Latte,$31,43,Nevada,40,30,40,12,Regular
+435,-4,12/1/2012,844,46,Small Market,West,8,1,Beans,Espresso,Caffe Latte,$26,77,Utah,40,30,70,20,Regular
+715,0,12/1/2012,863,51,Small Market,Central,9,1,Leaves,Herbal Tea,Lemon,$30,85,Wisconsin,40,30,70,21,Decaf
+603,-8,12/1/2012,250,49,Small Market,East,14,1,Leaves,Herbal Tea,Lemon,$2,88,New Hampshire,40,10,60,47,Decaf
+505,-13,12/1/2012,1009,38,Small Market,South,9,1,Leaves,Herbal Tea,Lemon,$7,69,New Mexico,40,20,60,31,Decaf
+573,1,12/1/2012,256,51,Small Market,Central,12,1,Leaves,Tea,Darjeeling,$11,89,Missouri,40,10,70,40,Regular
+636,2,12/1/2012,250,49,Small Market,Central,14,1,Leaves,Tea,Green Tea,$2,88,Missouri,40,0,70,47,Regular
+603,2,12/1/2012,344,43,Small Market,East,0,1,Leaves,Tea,Green Tea,$32,43,New Hampshire,40,30,40,11,Regular
+509,10,12/1/2012,320,66,Small Market,West,12,1,Leaves,Tea,Darjeeling,$30,107,Washington,40,20,70,36,Regular
+801,2,12/1/2012,256,51,Small Market,West,12,1,Leaves,Tea,Earl Grey,$12,89,Utah,40,10,60,39,Regular
+509,8,12/1/2012,466,63,Small Market,West,13,1,Leaves,Tea,Earl Grey,$28,106,Washington,40,20,70,35,Regular
+312,0,10/1/2013,541,51,Major Market,Central,12,1,Leaves,Herbal Tea,Lemon,$40,96,Illinois,40,40,60,24,Decaf
+530,-1,10/1/2013,541,51,Major Market,West,12,1,Leaves,Herbal Tea,Mint,$39,96,California,40,40,60,25,Decaf
+505,-49,10/1/2013,1698,23,Small Market,South,26,1,Beans,Coffee,Decaf Irish Cream,-$39,116,New Mexico,40,10,150,49,Decaf
+318,5,10/1/2013,449,67,Small Market,South,14,1,Beans,Espresso,Decaf Espresso,$45,120,Louisiana,40,40,60,37,Decaf
+515,-20,10/1/2013,1000,37,Small Market,Central,9,1,Beans,Coffee,Colombian,$10,72,Iowa,40,30,60,30,Regular
+505,-19,10/1/2013,320,64,Small Market,South,41,1,Beans,Espresso,Caffe Mocha,-$9,116,New Mexico,40,10,60,70,Regular
+435,2,10/1/2013,833,47,Small Market,West,8,1,Beans,Espresso,Caffe Latte,$42,84,Utah,40,40,60,19,Regular
+505,-21,10/1/2013,1000,37,Small Market,South,9,1,Leaves,Herbal Tea,Lemon,$9,72,New Mexico,40,30,50,31,Decaf
+314,-11,10/1/2013,244,53,Small Market,Central,12,1,Leaves,Tea,Darjeeling,$19,98,Missouri,40,30,60,40,Regular
+203,-13,10/1/2013,806,36,Small Market,East,6,1,Leaves,Tea,Green Tea,$27,64,Connecticut,40,40,60,18,Regular
+603,7,10/1/2013,430,43,Small Market,East,0,1,Leaves,Tea,Green Tea,$47,46,New Hampshire,40,40,40,11,Regular
+435,-29,10/1/2013,320,64,Small Market,West,41,1,Leaves,Tea,Darjeeling,-$9,116,Utah,40,20,50,70,Regular
+206,-10,10/1/2013,606,84,Small Market,West,54,1,Leaves,Tea,Green Tea,$0,153,Washington,40,10,60,84,Regular
+440,13,11/1/2013,482,48,Major Market,Central,8,1,Leaves,Herbal Tea,Chamomile,$43,85,Ohio,40,30,70,19,Decaf
+561,9,11/1/2013,391,67,Major Market,East,20,1,Leaves,Herbal Tea,Lemon,$19,129,Florida,40,10,80,54,Decaf
+920,-14,11/1/2013,570,30,Small Market,Central,7,1,Beans,Espresso,Decaf Espresso,$16,55,Wisconsin,40,30,60,19,Decaf
+505,-8,11/1/2013,248,47,Small Market,South,11,1,Beans,Espresso,Decaf Espresso,$12,87,New Mexico,40,20,60,39,Decaf
+702,-13,11/1/2013,1003,35,Small Market,West,8,1,Beans,Coffee,Decaf Irish Cream,$7,68,Nevada,40,20,70,30,Decaf
+515,-13,11/1/2013,1003,35,Small Market,Central,8,1,Beans,Coffee,Colombian,$7,68,Iowa,40,20,60,30,Regular
+603,-4,11/1/2013,211,42,Small Market,East,12,1,Beans,Espresso,Regular Espresso,-$4,81,New Hampshire,40,0,70,45,Regular
+580,13,11/1/2013,482,48,Small Market,South,8,1,Beans,Espresso,Caffe Mocha,$43,85,Oklahoma,40,30,60,19,Regular
+775,16,11/1/2013,387,43,Small Market,West,0,1,Beans,Espresso,Caffe Latte,$46,46,Nevada,40,30,40,12,Regular
+435,10,11/1/2013,836,48,Small Market,West,9,1,Beans,Espresso,Caffe Latte,$40,86,Utah,40,30,70,21,Regular
+314,-13,11/1/2013,1804,40,Small Market,Central,25,1,Leaves,Herbal Tea,Lemon,-$13,130,Missouri,40,0,110,49,Decaf
+435,-12,11/1/2013,1804,40,Small Market,West,25,1,Leaves,Herbal Tea,Mint,-$12,130,Utah,40,0,110,48,Decaf
+636,3,11/1/2013,248,47,Small Market,Central,11,1,Leaves,Tea,Darjeeling,$13,87,Missouri,40,10,60,38,Regular
+573,-4,11/1/2013,211,42,Small Market,Central,12,1,Leaves,Tea,Earl Grey,-$4,81,Missouri,40,0,60,45,Regular
+314,-6,11/1/2013,243,41,Small Market,Central,12,1,Leaves,Tea,Green Tea,-$6,79,Missouri,40,0,60,45,Regular
+603,17,11/1/2013,387,43,Small Market,East,0,1,Leaves,Tea,Green Tea,$47,46,New Hampshire,40,30,40,11,Regular
+435,0,11/1/2013,325,62,Small Market,West,40,1,Leaves,Tea,Darjeeling,-$10,113,Utah,40,-10,70,69,Regular
+614,7,12/1/2013,490,44,Major Market,Central,8,1,Leaves,Herbal Tea,Chamomile,$37,78,Ohio,40,30,60,19,Decaf
+440,13,12/1/2013,870,49,Major Market,Central,9,1,Leaves,Herbal Tea,Lemon,$43,87,Ohio,40,30,70,20,Decaf
+774,0,12/1/2013,422,57,Major Market,East,17,1,Leaves,Herbal Tea,Lemon,$10,110,Massachusetts,40,10,70,50,Decaf
+321,9,12/1/2013,882,45,Major Market,East,8,1,Leaves,Tea,Darjeeling,$39,80,Florida,40,30,70,19,Regular
+774,7,12/1/2013,490,44,Major Market,East,8,1,Leaves,Tea,Green Tea,$37,78,Massachusetts,40,30,70,19,Regular
+608,-11,12/1/2013,567,32,Small Market,Central,7,1,Beans,Espresso,Decaf Espresso,$19,60,Wisconsin,40,30,70,19,Decaf
+775,16,12/1/2013,344,43,Small Market,West,0,1,Beans,Espresso,Caffe Latte,$46,46,Nevada,40,30,40,12,Regular
+435,9,12/1/2013,844,46,Small Market,West,8,1,Beans,Espresso,Caffe Latte,$39,82,Utah,40,30,70,20,Regular
+715,15,12/1/2013,863,51,Small Market,Central,9,1,Leaves,Herbal Tea,Lemon,$45,91,Wisconsin,40,30,70,21,Decaf
+603,-7,12/1/2013,250,49,Small Market,East,14,1,Leaves,Herbal Tea,Lemon,$3,94,New Hampshire,40,10,60,47,Decaf
+505,-10,12/1/2013,1009,38,Small Market,South,9,1,Leaves,Herbal Tea,Lemon,$10,74,New Mexico,40,20,60,31,Decaf
+314,6,12/1/2013,256,51,Small Market,Central,12,1,Leaves,Tea,Darjeeling,$16,95,Missouri,40,10,70,40,Regular
+660,3,12/1/2013,250,49,Small Market,Central,14,1,Leaves,Tea,Green Tea,$3,94,Missouri,40,0,70,47,Regular
+603,17,12/1/2013,344,43,Small Market,East,0,1,Leaves,Tea,Green Tea,$47,46,New Hampshire,40,30,40,11,Regular
+253,25,12/1/2013,320,66,Small Market,West,12,1,Leaves,Tea,Darjeeling,$45,114,Washington,40,20,70,36,Regular
+435,8,12/1/2013,256,51,Small Market,West,12,1,Leaves,Tea,Earl Grey,$18,95,Utah,40,10,60,39,Regular
+253,22,12/1/2013,466,63,Small Market,West,13,1,Leaves,Tea,Earl Grey,$42,113,Washington,40,20,70,35,Regular
+216,-35,10/1/2012,503,71,Major Market,Central,46,1,Beans,Coffee,Decaf Irish Cream,-$5,122,Ohio,70,30,110,76,Decaf
+440,-34,10/1/2012,405,71,Major Market,Central,17,1,Beans,Coffee,Amaretto,$26,123,Ohio,70,60,110,45,Regular
+937,-32,10/1/2012,419,64,Major Market,Central,13,1,Beans,Coffee,Colombian,$28,107,Ohio,70,60,100,36,Regular
+774,-41,10/1/2012,542,65,Major Market,East,46,1,Beans,Espresso,Caffe Mocha,-$11,116,Massachusetts,70,30,100,76,Regular
+832,5,10/1/2012,-868,110,Major Market,South,23,1,Beans,Espresso,Caffe Latte,$55,182,Texas,70,50,110,55,Regular
+863,-14,10/1/2012,851,70,Major Market,East,13,1,Leaves,Tea,Green Tea,$46,118,Florida,70,60,120,24,Regular
+985,-12,10/1/2012,329,99,Small Market,South,18,1,Beans,Espresso,Caffe Mocha,$58,159,Louisiana,70,70,100,41,Regular
+971,-33,10/1/2012,405,71,Small Market,West,17,1,Beans,Espresso,Caffe Mocha,$27,123,Oregon,70,60,100,44,Regular
+253,-34,10/1/2012,385,70,Small Market,West,21,1,Beans,Espresso,Caffe Mocha,$16,126,Washington,70,50,110,54,Regular
+405,-34,10/1/2012,385,70,Small Market,South,21,1,Leaves,Herbal Tea,Chamomile,$16,126,Oklahoma,70,50,110,54,Decaf
+435,-37,10/1/2012,447,69,Small Market,West,14,1,Leaves,Herbal Tea,Lemon,$23,114,Utah,70,60,90,46,Decaf
+567,-13,11/1/2012,509,73,Major Market,Central,47,1,Beans,Coffee,Decaf Irish Cream,-$3,125,Ohio,70,10,120,76,Decaf
+614,-8,11/1/2012,424,68,Major Market,Central,14,1,Beans,Coffee,Colombian,$32,114,Ohio,70,40,110,36,Regular
+303,-14,11/1/2012,509,73,Major Market,Central,47,1,Leaves,Herbal Tea,Lemon,-$4,125,Colorado,70,10,110,77,Decaf
+720,-8,11/1/2012,411,79,Major Market,Central,19,1,Leaves,Herbal Tea,Mint,$32,138,Colorado,70,40,120,47,Decaf
+713,-8,11/1/2012,411,79,Major Market,South,19,1,Leaves,Herbal Tea,Chamomile,$32,138,Texas,70,40,120,47,Decaf
+718,-3,11/1/2012,589,73,Major Market,East,14,1,Leaves,Tea,Green Tea,$47,123,New York,70,50,120,26,Regular
+860,-14,11/1/2012,380,71,Small Market,East,17,1,Beans,Espresso,Decaf Espresso,$26,124,Connecticut,70,40,120,45,Decaf
+435,2,11/1/2012,885,78,Small Market,West,15,1,Beans,Espresso,Decaf Espresso,$52,132,Utah,70,50,120,26,Decaf
+505,-10,11/1/2012,452,66,Small Market,South,14,1,Beans,Coffee,Colombian,$20,109,New Mexico,70,30,120,46,Regular
+504,-9,11/1/2012,-906,86,Small Market,South,55,1,Beans,Espresso,Caffe Latte,$1,147,Louisiana,70,10,110,85,Regular
+541,-14,11/1/2012,410,69,Small Market,West,20,1,Beans,Espresso,Caffe Latte,$16,124,Oregon,70,30,120,53,Regular
+860,8,11/1/2012,601,102,Small Market,East,31,1,Leaves,Herbal Tea,Lemon,$38,184,Connecticut,70,30,130,64,Decaf
+715,2,11/1/2012,613,86,Small Market,Central,55,1,Leaves,Tea,Earl Grey,$2,147,Wisconsin,70,0,120,84,Regular
+425,-1,11/1/2012,321,88,Small Market,West,16,1,Leaves,Tea,Darjeeling,$49,141,Washington,70,50,100,39,Regular
+419,-16,12/1/2012,521,65,Major Market,Central,42,1,Beans,Coffee,Decaf Irish Cream,-$6,112,Ohio,70,10,110,71,Decaf
+513,-11,12/1/2012,424,73,Major Market,Central,17,1,Beans,Coffee,Amaretto,$29,127,Ohio,70,40,120,44,Regular
+512,17,12/1/2012,-1239,101,Major Market,South,22,1,Beans,Espresso,Caffe Latte,$47,168,Texas,70,30,120,54,Regular
+309,3,12/1/2012,601,79,Major Market,Central,15,1,Leaves,Tea,Darjeeling,$53,133,Illinois,70,50,110,26,Regular
+816,-4,12/1/2012,1075,76,Small Market,Central,19,1,Beans,Coffee,Decaf Irish Cream,$36,139,Missouri,70,40,130,40,Decaf
+959,-19,12/1/2012,392,65,Small Market,East,16,1,Beans,Espresso,Decaf Espresso,$21,114,Connecticut,70,40,110,44,Decaf
+435,-3,12/1/2012,898,73,Small Market,West,14,1,Beans,Espresso,Decaf Espresso,$47,123,Utah,70,50,110,26,Decaf
+603,-13,12/1/2012,327,75,Small Market,East,16,1,Beans,Coffee,Amaretto,$37,127,New Hampshire,70,50,110,38,Regular
+475,-12,12/1/2012,627,76,Small Market,East,49,1,Beans,Espresso,Caffe Mocha,-$2,131,Connecticut,70,10,120,78,Regular
+603,-14,12/1/2012,335,69,Small Market,East,44,1,Beans,Espresso,Caffe Mocha,-$4,118,New Hampshire,70,10,110,73,Regular
+503,-19,12/1/2012,482,57,Small Market,West,13,1,Beans,Coffee,Colombian,$1,98,Oregon,70,20,110,56,Regular
+503,-12,12/1/2012,424,73,Small Market,West,17,1,Beans,Espresso,Caffe Mocha,$28,127,Oregon,70,40,120,45,Regular
+405,2,12/1/2012,403,80,Small Market,South,24,1,Leaves,Herbal Tea,Chamomile,$22,145,Oklahoma,70,20,130,58,Decaf
+435,-4,12/1/2012,327,75,Small Market,West,16,1,Leaves,Herbal Tea,Chamomile,$36,127,Utah,70,40,110,39,Decaf
+801,-12,12/1/2012,462,74,Small Market,West,15,1,Leaves,Herbal Tea,Lemon,$28,122,Utah,70,40,110,46,Decaf
+425,-4,12/1/2012,845,71,Small Market,West,13,1,Leaves,Herbal Tea,Lemon,$46,120,Washington,70,50,110,25,Decaf
+860,-3,12/1/2012,898,73,Small Market,East,14,1,Leaves,Tea,Darjeeling,$47,123,Connecticut,70,50,120,26,Regular
+234,-37,10/1/2013,503,71,Major Market,Central,46,1,Beans,Coffee,Decaf Irish Cream,-$7,130,Ohio,70,30,110,76,Decaf
+614,-21,10/1/2013,405,71,Major Market,Central,17,1,Beans,Coffee,Amaretto,$39,131,Ohio,70,60,110,45,Regular
+937,-18,10/1/2013,419,64,Major Market,Central,13,1,Beans,Coffee,Colombian,$42,114,Ohio,70,60,100,36,Regular
+774,-46,10/1/2013,542,65,Major Market,East,46,1,Beans,Espresso,Caffe Mocha,-$16,124,Massachusetts,70,30,100,76,Regular
+682,32,10/1/2013,-868,110,Major Market,South,23,1,Beans,Espresso,Caffe Latte,$82,194,Texas,70,50,110,55,Regular
+772,8,10/1/2013,851,70,Major Market,East,13,1,Leaves,Tea,Green Tea,$68,126,Florida,70,60,120,24,Regular
+225,16,10/1/2013,329,99,Small Market,South,18,1,Beans,Espresso,Caffe Mocha,$86,169,Louisiana,70,70,100,41,Regular
+541,-20,10/1/2013,405,71,Small Market,West,17,1,Beans,Espresso,Caffe Mocha,$40,131,Oregon,70,60,100,44,Regular
+425,-26,10/1/2013,385,70,Small Market,West,21,1,Beans,Espresso,Caffe Mocha,$24,134,Washington,70,50,110,54,Regular
+580,-26,10/1/2013,385,70,Small Market,South,21,1,Leaves,Herbal Tea,Chamomile,$24,134,Oklahoma,70,50,110,54,Decaf
+435,-26,10/1/2013,447,69,Small Market,West,14,1,Leaves,Herbal Tea,Lemon,$34,121,Utah,70,60,90,46,Decaf
+614,-14,11/1/2013,509,73,Major Market,Central,47,1,Beans,Coffee,Decaf Irish Cream,-$4,133,Ohio,70,10,120,76,Decaf
+234,7,11/1/2013,424,68,Major Market,Central,14,1,Beans,Coffee,Colombian,$47,121,Ohio,70,40,110,36,Regular
+970,-16,11/1/2013,509,73,Major Market,Central,47,1,Leaves,Herbal Tea,Lemon,-$6,133,Colorado,70,10,110,77,Decaf
+970,7,11/1/2013,411,79,Major Market,Central,19,1,Leaves,Herbal Tea,Mint,$47,147,Colorado,70,40,120,47,Decaf
+936,7,11/1/2013,411,79,Major Market,South,19,1,Leaves,Herbal Tea,Chamomile,$47,147,Texas,70,40,120,47,Decaf
+914,20,11/1/2013,589,73,Major Market,East,14,1,Leaves,Tea,Green Tea,$70,131,New York,70,50,120,26,Regular
+203,-1,11/1/2013,380,71,Small Market,East,17,1,Beans,Espresso,Decaf Espresso,$39,132,Connecticut,70,40,120,45,Decaf
+435,27,11/1/2013,885,78,Small Market,West,15,1,Beans,Espresso,Decaf Espresso,$77,141,Utah,70,50,120,26,Decaf
+505,0,11/1/2013,452,66,Small Market,South,14,1,Beans,Coffee,Colombian,$30,116,New Mexico,70,30,120,46,Regular
+318,-9,11/1/2013,-906,86,Small Market,South,55,1,Beans,Espresso,Caffe Latte,$1,157,Louisiana,70,10,110,85,Regular
+503,-6,11/1/2013,410,69,Small Market,West,20,1,Beans,Espresso,Caffe Latte,$24,132,Oregon,70,30,120,53,Regular
+475,26,11/1/2013,601,102,Small Market,East,31,1,Leaves,Herbal Tea,Lemon,$56,196,Connecticut,70,30,130,64,Decaf
+715,3,11/1/2013,613,86,Small Market,Central,55,1,Leaves,Tea,Earl Grey,$3,157,Wisconsin,70,0,120,84,Regular
+509,23,11/1/2013,321,88,Small Market,West,16,1,Leaves,Tea,Darjeeling,$73,150,Washington,70,50,100,39,Regular
+513,-19,12/1/2013,521,65,Major Market,Central,42,1,Beans,Coffee,Decaf Irish Cream,-$9,119,Ohio,70,10,110,71,Decaf
+234,3,12/1/2013,424,73,Major Market,Central,17,1,Beans,Coffee,Amaretto,$43,135,Ohio,70,40,120,44,Regular
+361,40,12/1/2013,-1239,101,Major Market,South,22,1,Beans,Espresso,Caffe Latte,$70,179,Texas,70,30,120,54,Regular
+630,29,12/1/2013,601,79,Major Market,Central,15,1,Leaves,Tea,Darjeeling,$79,142,Illinois,70,50,110,26,Regular
+636,13,12/1/2013,1075,76,Small Market,Central,19,1,Beans,Coffee,Decaf Irish Cream,$53,148,Missouri,70,40,130,40,Decaf
+203,-9,12/1/2013,392,65,Small Market,East,16,1,Beans,Espresso,Decaf Espresso,$31,121,Connecticut,70,40,110,44,Decaf
+435,20,12/1/2013,898,73,Small Market,West,14,1,Beans,Espresso,Decaf Espresso,$70,131,Utah,70,50,110,26,Decaf
+603,5,12/1/2013,327,75,Small Market,East,16,1,Beans,Coffee,Amaretto,$55,135,New Hampshire,70,50,110,38,Regular
+203,-13,12/1/2013,627,76,Small Market,East,49,1,Beans,Espresso,Caffe Mocha,-$3,140,Connecticut,70,10,120,78,Regular
+603,-16,12/1/2013,335,69,Small Market,East,44,1,Beans,Espresso,Caffe Mocha,-$6,126,New Hampshire,70,10,110,73,Regular
+541,-19,12/1/2013,482,57,Small Market,West,13,1,Beans,Coffee,Colombian,$1,104,Oregon,70,20,110,56,Regular
+503,2,12/1/2013,424,73,Small Market,West,17,1,Beans,Espresso,Caffe Mocha,$42,135,Oregon,70,40,120,45,Regular
+405,13,12/1/2013,403,80,Small Market,South,24,1,Leaves,Herbal Tea,Chamomile,$33,155,Oklahoma,70,20,130,58,Decaf
+435,13,12/1/2013,327,75,Small Market,West,16,1,Leaves,Herbal Tea,Chamomile,$53,135,Utah,70,40,110,39,Decaf
+435,2,12/1/2013,462,74,Small Market,West,15,1,Leaves,Herbal Tea,Lemon,$42,130,Utah,70,40,110,46,Decaf
+425,18,12/1/2013,845,71,Small Market,West,13,1,Leaves,Herbal Tea,Lemon,$68,128,Washington,70,50,110,25,Decaf
+959,20,12/1/2013,898,73,Small Market,East,14,1,Leaves,Tea,Darjeeling,$70,131,Connecticut,70,50,120,26,Regular
+937,-14,10/1/2012,480,32,Major Market,Central,5,1,Leaves,Herbal Tea,Chamomile,$16,53,Ohio,30,30,30,16,Decaf
+513,-10,10/1/2012,859,39,Major Market,Central,7,1,Leaves,Herbal Tea,Lemon,$20,66,Ohio,30,30,40,19,Decaf
+850,-4,10/1/2012,385,70,Major Market,East,21,1,Leaves,Herbal Tea,Lemon,$16,126,Florida,30,20,60,54,Decaf
+781,-7,10/1/2012,404,66,Major Market,East,20,1,Leaves,Herbal Tea,Lemon,$13,120,Massachusetts,30,20,60,53,Decaf
+413,-15,10/1/2012,480,32,Major Market,East,5,1,Leaves,Tea,Green Tea,$15,53,Massachusetts,30,30,50,17,Regular
+505,-6,10/1/2012,244,53,Small Market,South,12,1,Beans,Espresso,Decaf Espresso,$14,92,New Mexico,30,20,50,39,Decaf
+702,-13,10/1/2012,800,35,Small Market,West,6,1,Beans,Espresso,Decaf Espresso,$17,58,Nevada,30,30,40,18,Decaf
+563,-15,10/1/2012,846,31,Small Market,Central,5,1,Beans,Coffee,Amaretto,$15,52,Iowa,30,30,40,16,Regular
+603,-22,10/1/2012,209,31,Small Market,East,9,1,Beans,Espresso,Regular Espresso,-$12,56,New Hampshire,30,10,40,43,Regular
+405,-15,10/1/2012,480,32,Small Market,South,5,1,Beans,Espresso,Caffe Mocha,$15,53,Oklahoma,30,30,30,17,Regular
+702,2,10/1/2012,430,43,Small Market,West,0,1,Beans,Espresso,Caffe Latte,$32,43,Nevada,30,30,30,11,Regular
+603,-23,10/1/2012,240,43,Small Market,East,12,1,Leaves,Herbal Tea,Lemon,-$3,77,New Hampshire,30,20,40,46,Decaf
+505,-16,10/1/2012,846,31,Small Market,South,5,1,Leaves,Herbal Tea,Chamomile,$14,52,New Mexico,30,30,40,17,Decaf
+971,-13,10/1/2012,820,36,Small Market,West,7,1,Leaves,Herbal Tea,Chamomile,$17,61,Oregon,30,30,40,19,Decaf
+314,-13,10/1/2012,240,43,Small Market,Central,12,1,Leaves,Tea,Green Tea,-$3,77,Missouri,30,10,40,46,Regular
+603,-16,10/1/2012,846,31,Small Market,East,5,1,Leaves,Tea,Darjeeling,$14,52,New Hampshire,30,30,50,17,Regular
+435,-6,10/1/2012,244,53,Small Market,West,12,1,Leaves,Tea,Earl Grey,$14,92,Utah,30,20,40,39,Regular
+360,1,10/1/2012,449,67,Small Market,West,14,1,Leaves,Tea,Earl Grey,$31,113,Washington,30,30,50,36,Regular
+775,-3,11/1/2012,802,34,Small Market,West,6,1,Beans,Espresso,Decaf Espresso,$17,56,Nevada,30,20,50,17,Decaf
+505,6,11/1/2012,-522,42,Small Market,South,12,1,Beans,Espresso,Caffe Latte,-$4,76,New Mexico,30,-10,50,46,Regular
+253,-9,11/1/2012,570,30,Small Market,West,7,1,Beans,Espresso,Caffe Latte,$11,52,Washington,30,20,50,19,Regular
+603,-4,11/1/2012,243,41,Small Market,East,12,1,Leaves,Herbal Tea,Lemon,-$4,74,New Hampshire,30,0,50,45,Decaf
+505,-5,11/1/2012,1003,35,Small Market,South,8,1,Leaves,Herbal Tea,Lemon,$5,64,New Mexico,30,10,50,30,Decaf
+503,-1,11/1/2012,823,38,Small Market,West,7,1,Leaves,Herbal Tea,Chamomile,$19,63,Oregon,30,20,50,19,Decaf
+603,-12,11/1/2012,848,24,Small Market,East,4,1,Leaves,Tea,Darjeeling,$8,39,New Hampshire,30,20,40,16,Regular
+541,-2,11/1/2012,482,48,Small Market,West,8,1,Leaves,Tea,Darjeeling,$28,80,Oregon,30,30,50,20,Regular
+435,-1,11/1/2012,248,47,Small Market,West,11,1,Leaves,Tea,Earl Grey,$9,82,Utah,30,10,50,38,Regular
+801,-3,11/1/2012,211,42,Small Market,West,12,1,Leaves,Tea,Green Tea,-$3,76,Utah,30,0,50,45,Regular
+772,-8,12/1/2012,567,32,Major Market,East,7,1,Leaves,Herbal Tea,Chamomile,$12,56,Florida,30,20,40,20,Decaf
+505,12,12/1/2012,256,51,Small Market,South,12,1,Beans,Espresso,Decaf Espresso,$12,89,New Mexico,30,0,60,39,Decaf
+702,-3,12/1/2012,807,35,Small Market,West,6,1,Beans,Espresso,Decaf Espresso,$17,58,Nevada,30,20,50,18,Decaf
+641,-10,12/1/2012,851,25,Small Market,Central,4,1,Beans,Coffee,Amaretto,$10,41,Iowa,30,20,40,15,Regular
+563,-2,12/1/2012,1009,38,Small Market,Central,9,1,Beans,Coffee,Colombian,$8,69,Iowa,30,10,60,30,Regular
+603,-16,12/1/2012,218,25,Small Market,East,7,1,Beans,Espresso,Regular Espresso,-$16,45,New Hampshire,30,0,40,41,Regular
+580,4,12/1/2012,490,44,Small Market,South,8,1,Beans,Espresso,Caffe Mocha,$24,73,Oklahoma,30,20,50,20,Regular
+253,-7,12/1/2012,567,32,Small Market,West,7,1,Beans,Espresso,Caffe Latte,$13,56,Washington,30,20,50,19,Regular
+541,-1,12/1/2012,829,36,Small Market,West,6,1,Leaves,Herbal Tea,Chamomile,$19,60,Oregon,30,20,50,17,Decaf
+603,-10,12/1/2012,851,25,Small Market,East,4,1,Leaves,Tea,Darjeeling,$10,41,New Hampshire,30,20,40,15,Regular
+971,-5,12/1/2012,490,44,Small Market,West,8,1,Leaves,Tea,Darjeeling,$25,73,Oregon,30,30,50,19,Regular
+937,-6,10/1/2013,480,32,Major Market,Central,5,1,Leaves,Herbal Tea,Chamomile,$24,56,Ohio,30,30,30,16,Decaf
+937,0,10/1/2013,859,39,Major Market,Central,7,1,Leaves,Herbal Tea,Lemon,$30,70,Ohio,30,30,40,19,Decaf
+786,4,10/1/2013,385,70,Major Market,East,21,1,Leaves,Herbal Tea,Lemon,$24,134,Florida,30,20,60,54,Decaf
+339,-1,10/1/2013,404,66,Major Market,East,20,1,Leaves,Herbal Tea,Lemon,$19,128,Massachusetts,30,20,60,53,Decaf
+781,-8,10/1/2013,480,32,Major Market,East,5,1,Leaves,Tea,Green Tea,$22,56,Massachusetts,30,30,50,17,Regular
+505,1,10/1/2013,244,53,Small Market,South,12,1,Beans,Espresso,Decaf Espresso,$21,98,New Mexico,30,20,50,39,Decaf
+775,-5,10/1/2013,800,35,Small Market,West,6,1,Beans,Espresso,Decaf Espresso,$25,62,Nevada,30,30,40,18,Decaf
+515,-8,10/1/2013,846,31,Small Market,Central,5,1,Beans,Coffee,Amaretto,$22,55,Iowa,30,30,40,16,Regular
+603,-28,10/1/2013,209,31,Small Market,East,9,1,Beans,Espresso,Regular Espresso,-$18,60,New Hampshire,30,10,40,43,Regular
+580,-8,10/1/2013,480,32,Small Market,South,5,1,Beans,Espresso,Caffe Mocha,$22,56,Oklahoma,30,30,30,17,Regular
+702,17,10/1/2013,430,43,Small Market,West,0,1,Beans,Espresso,Caffe Latte,$47,46,Nevada,30,30,30,11,Regular
+603,-24,10/1/2013,240,43,Small Market,East,12,1,Leaves,Herbal Tea,Lemon,-$4,82,New Hampshire,30,20,40,46,Decaf
+505,-9,10/1/2013,846,31,Small Market,South,5,1,Leaves,Herbal Tea,Chamomile,$21,55,New Mexico,30,30,40,17,Decaf
+971,-5,10/1/2013,820,36,Small Market,West,7,1,Leaves,Herbal Tea,Chamomile,$25,65,Oregon,30,30,40,19,Decaf
+314,-14,10/1/2013,240,43,Small Market,Central,12,1,Leaves,Tea,Green Tea,-$4,82,Missouri,30,10,40,46,Regular
+603,-9,10/1/2013,846,31,Small Market,East,5,1,Leaves,Tea,Darjeeling,$21,55,New Hampshire,30,30,50,17,Regular
+435,1,10/1/2013,244,53,Small Market,West,12,1,Leaves,Tea,Earl Grey,$21,98,Utah,30,20,40,39,Regular
+509,16,10/1/2013,449,67,Small Market,West,14,1,Leaves,Tea,Earl Grey,$46,120,Washington,30,30,50,36,Regular
+775,5,11/1/2013,802,34,Small Market,West,6,1,Beans,Espresso,Decaf Espresso,$25,60,Nevada,30,20,50,17,Decaf
+505,4,11/1/2013,-522,42,Small Market,South,12,1,Beans,Espresso,Caffe Latte,-$6,81,New Mexico,30,-10,50,46,Regular
+425,-4,11/1/2013,570,30,Small Market,West,7,1,Beans,Espresso,Caffe Latte,$16,55,Washington,30,20,50,19,Regular
+603,-6,11/1/2013,243,41,Small Market,East,12,1,Leaves,Herbal Tea,Lemon,-$6,79,New Hampshire,30,0,50,45,Decaf
+505,-3,11/1/2013,1003,35,Small Market,South,8,1,Leaves,Herbal Tea,Lemon,$7,68,New Mexico,30,10,50,30,Decaf
+541,8,11/1/2013,823,38,Small Market,West,7,1,Leaves,Herbal Tea,Chamomile,$28,67,Oregon,30,20,50,19,Decaf
+603,-8,11/1/2013,848,24,Small Market,East,4,1,Leaves,Tea,Darjeeling,$12,42,New Hampshire,30,20,40,16,Regular
+503,12,11/1/2013,482,48,Small Market,West,8,1,Leaves,Tea,Darjeeling,$42,85,Oregon,30,30,50,20,Regular
+435,3,11/1/2013,248,47,Small Market,West,11,1,Leaves,Tea,Earl Grey,$13,87,Utah,30,10,50,38,Regular
+435,-4,11/1/2013,211,42,Small Market,West,12,1,Leaves,Tea,Green Tea,-$4,81,Utah,30,0,50,45,Regular
+904,-2,12/1/2013,567,32,Major Market,East,7,1,Leaves,Herbal Tea,Chamomile,$18,60,Florida,30,20,40,20,Decaf
+505,18,12/1/2013,256,51,Small Market,South,12,1,Beans,Espresso,Decaf Espresso,$18,95,New Mexico,30,0,60,39,Decaf
+775,5,12/1/2013,807,35,Small Market,West,6,1,Beans,Espresso,Decaf Espresso,$25,62,Nevada,30,20,50,18,Decaf
+563,-5,12/1/2013,851,25,Small Market,Central,4,1,Beans,Coffee,Amaretto,$15,44,Iowa,30,20,40,15,Regular
+641,2,12/1/2013,1009,38,Small Market,Central,9,1,Beans,Coffee,Colombian,$12,74,Iowa,30,10,60,30,Regular
+603,-24,12/1/2013,218,25,Small Market,East,7,1,Beans,Espresso,Regular Espresso,-$24,48,New Hampshire,30,0,40,41,Regular
+580,16,12/1/2013,490,44,Small Market,South,8,1,Beans,Espresso,Caffe Mocha,$36,78,Oklahoma,30,20,50,20,Regular
+206,-1,12/1/2013,567,32,Small Market,West,7,1,Beans,Espresso,Caffe Latte,$19,60,Washington,30,20,50,19,Regular
+503,8,12/1/2013,829,36,Small Market,West,6,1,Leaves,Herbal Tea,Chamomile,$28,64,Oregon,30,20,50,17,Decaf
+603,-5,12/1/2013,851,25,Small Market,East,4,1,Leaves,Tea,Darjeeling,$15,44,New Hampshire,30,20,40,15,Regular
+541,7,12/1/2013,490,44,Small Market,West,8,1,Leaves,Tea,Darjeeling,$37,78,Oregon,30,30,50,19,Regular
+915,-2,10/1/2012,580,111,Major Market,South,21,1,Beans,Espresso,Decaf Espresso,$78,187,Texas,80,80,120,33,Decaf
+713,-44,10/1/2012,405,71,Major Market,South,17,1,Leaves,Herbal Tea,Chamomile,$26,123,Texas,80,70,110,45,Decaf
+217,-2,10/1/2012,580,111,Major Market,Central,21,1,Leaves,Tea,Darjeeling,$78,187,Illinois,80,80,130,33,Regular
+847,5,10/1/2012,650,110,Major Market,Central,23,1,Leaves,Tea,Earl Grey,$55,182,Illinois,80,50,130,55,Regular
+660,-35,10/1/2012,1053,77,Small Market,Central,20,1,Beans,Coffee,Decaf Irish Cream,$35,142,Missouri,80,70,130,42,Decaf
+660,-52,10/1/2012,833,47,Small Market,Central,8,1,Beans,Espresso,Decaf Espresso,$28,79,Missouri,80,80,110,19,Decaf
+405,5,10/1/2012,788,123,Small Market,South,27,1,Beans,Espresso,Decaf Espresso,$65,205,Oklahoma,80,60,130,58,Decaf
+715,-35,10/1/2012,385,70,Small Market,Central,21,1,Beans,Coffee,Amaretto,$15,126,Wisconsin,80,50,120,55,Regular
+405,6,10/1/2012,-1785,127,Small Market,South,28,1,Beans,Espresso,Caffe Latte,$76,218,Oklahoma,80,70,130,51,Regular
+414,-23,10/1/2012,329,99,Small Market,Central,18,1,Leaves,Herbal Tea,Chamomile,$57,159,Wisconsin,80,80,120,42,Decaf
+419,-24,11/1/2012,410,69,Major Market,Central,20,1,Beans,Espresso,Decaf Espresso,$16,124,Ohio,80,40,150,53,Decaf
+330,-17,11/1/2012,411,79,Major Market,Central,19,1,Beans,Coffee,Amaretto,$33,138,Ohio,80,50,130,46,Regular
+650,19,11/1/2012,659,114,Major Market,West,24,1,Leaves,Tea,Green Tea,$59,189,California,80,40,130,55,Regular
+314,-2,11/1/2012,1060,81,Small Market,Central,21,1,Beans,Coffee,Decaf Irish Cream,$38,150,Missouri,80,40,140,43,Decaf
+503,-18,11/1/2012,424,68,Small Market,West,14,1,Beans,Coffee,Decaf Irish Cream,$32,114,Oregon,80,50,130,36,Decaf
+206,5,11/1/2012,1063,89,Small Market,West,23,1,Beans,Espresso,Decaf Espresso,$45,164,Washington,80,40,150,44,Decaf
+203,-8,11/1/2012,613,86,Small Market,East,55,1,Beans,Espresso,Caffe Mocha,$2,147,Connecticut,80,10,140,84,Regular
+225,-16,11/1/2012,834,68,Small Market,South,13,1,Beans,Coffee,Colombian,$44,115,Louisiana,80,60,130,24,Regular
+541,-14,11/1/2012,509,73,Small Market,West,47,1,Beans,Coffee,Amaretto,-$4,125,Oregon,80,10,140,77,Regular
+435,-23,11/1/2012,380,71,Small Market,West,17,1,Beans,Coffee,Colombian,$27,124,Utah,80,50,140,44,Regular
+503,-17,11/1/2012,411,79,Small Market,West,19,1,Beans,Espresso,Caffe Mocha,$33,138,Oregon,80,50,130,46,Regular
+920,-2,11/1/2012,321,88,Small Market,Central,16,1,Leaves,Herbal Tea,Chamomile,$48,141,Wisconsin,80,50,130,40,Decaf
+959,-9,11/1/2012,885,78,Small Market,East,15,1,Leaves,Tea,Darjeeling,$51,132,Connecticut,80,60,130,27,Regular
+740,-34,12/1/2012,422,57,Major Market,Central,17,1,Beans,Espresso,Decaf Espresso,$6,103,Ohio,80,40,130,51,Decaf
+630,7,12/1/2012,677,101,Major Market,Central,22,1,Leaves,Tea,Earl Grey,$47,168,Illinois,80,40,130,54,Regular
+518,-8,12/1/2012,601,79,Major Market,East,15,1,Leaves,Tea,Green Tea,$52,133,New York,80,60,130,27,Regular
+213,-3,12/1/2012,677,101,Major Market,West,22,1,Leaves,Tea,Green Tea,$47,168,California,80,50,120,54,Regular
+503,-25,12/1/2012,435,60,Small Market,West,13,1,Beans,Coffee,Decaf Irish Cream,$25,101,Oregon,80,50,120,35,Decaf
+715,-8,12/1/2012,403,80,Small Market,Central,24,1,Beans,Coffee,Amaretto,$22,145,Wisconsin,80,30,140,58,Regular
+503,-27,12/1/2012,521,65,Small Market,West,42,1,Beans,Coffee,Amaretto,-$7,112,Oregon,80,20,130,72,Regular
+801,-29,12/1/2012,392,65,Small Market,West,16,1,Beans,Coffee,Colombian,$21,114,Utah,80,50,130,44,Regular
+509,-7,12/1/2012,403,80,Small Market,West,24,1,Beans,Espresso,Caffe Mocha,$23,145,Washington,80,30,140,57,Regular
+985,-4,12/1/2012,619,85,Small Market,South,25,1,Leaves,Herbal Tea,Lemon,$26,153,Louisiana,80,30,140,59,Decaf
+432,36,10/1/2013,580,111,Major Market,South,21,1,Beans,Espresso,Decaf Espresso,$116,199,Texas,80,80,120,33,Decaf
+325,-31,10/1/2013,405,71,Major Market,South,17,1,Leaves,Herbal Tea,Chamomile,$39,131,Texas,80,70,110,45,Decaf
+815,36,10/1/2013,580,111,Major Market,Central,21,1,Leaves,Tea,Darjeeling,$116,199,Illinois,80,80,130,33,Regular
+815,32,10/1/2013,650,110,Major Market,Central,23,1,Leaves,Tea,Earl Grey,$82,194,Illinois,80,50,130,55,Regular
+636,-18,10/1/2013,1053,77,Small Market,Central,20,1,Beans,Coffee,Decaf Irish Cream,$52,151,Missouri,80,70,130,42,Decaf
+417,-38,10/1/2013,833,47,Small Market,Central,8,1,Beans,Espresso,Decaf Espresso,$42,84,Missouri,80,80,110,19,Decaf
+405,36,10/1/2013,788,123,Small Market,South,27,1,Beans,Espresso,Decaf Espresso,$96,218,Oklahoma,80,60,130,58,Decaf
+414,-28,10/1/2013,385,70,Small Market,Central,21,1,Beans,Coffee,Amaretto,$22,134,Wisconsin,80,50,120,55,Regular
+405,43,10/1/2013,-1785,127,Small Market,South,28,1,Beans,Espresso,Caffe Latte,$113,232,Oklahoma,80,70,130,51,Regular
+715,5,10/1/2013,329,99,Small Market,Central,18,1,Leaves,Herbal Tea,Chamomile,$85,169,Wisconsin,80,80,120,42,Decaf
+937,-16,11/1/2013,410,69,Major Market,Central,20,1,Beans,Espresso,Decaf Espresso,$24,132,Ohio,80,40,150,53,Decaf
+234,-1,11/1/2013,411,79,Major Market,Central,19,1,Beans,Coffee,Amaretto,$49,147,Ohio,80,50,130,46,Regular
+209,48,11/1/2013,659,114,Major Market,West,24,1,Leaves,Tea,Green Tea,$88,201,California,80,40,130,55,Regular
+417,16,11/1/2013,1060,81,Small Market,Central,21,1,Beans,Coffee,Decaf Irish Cream,$56,160,Missouri,80,40,140,43,Decaf
+503,-3,11/1/2013,424,68,Small Market,West,14,1,Beans,Coffee,Decaf Irish Cream,$47,121,Oregon,80,50,130,36,Decaf
+425,27,11/1/2013,1063,89,Small Market,West,23,1,Beans,Espresso,Decaf Espresso,$67,175,Washington,80,40,150,44,Decaf
+475,-7,11/1/2013,613,86,Small Market,East,55,1,Beans,Espresso,Caffe Mocha,$3,157,Connecticut,80,10,140,84,Regular
+318,5,11/1/2013,834,68,Small Market,South,13,1,Beans,Coffee,Colombian,$65,123,Louisiana,80,60,130,24,Regular
+971,-16,11/1/2013,509,73,Small Market,West,47,1,Beans,Coffee,Amaretto,-$6,133,Oregon,80,10,140,77,Regular
+435,-10,11/1/2013,380,71,Small Market,West,17,1,Beans,Coffee,Colombian,$40,132,Utah,80,50,140,44,Regular
+541,-1,11/1/2013,411,79,Small Market,West,19,1,Beans,Espresso,Caffe Mocha,$49,147,Oregon,80,50,130,46,Regular
+262,21,11/1/2013,321,88,Small Market,Central,16,1,Leaves,Herbal Tea,Chamomile,$71,150,Wisconsin,80,50,130,40,Decaf
+860,16,11/1/2013,885,78,Small Market,East,15,1,Leaves,Tea,Darjeeling,$76,141,Connecticut,80,60,130,27,Regular
+419,-31,12/1/2013,422,57,Major Market,Central,17,1,Beans,Espresso,Decaf Espresso,$9,110,Ohio,80,40,130,51,Decaf
+708,30,12/1/2013,677,101,Major Market,Central,22,1,Leaves,Tea,Earl Grey,$70,179,Illinois,80,40,130,54,Regular
+585,17,12/1/2013,601,79,Major Market,East,15,1,Leaves,Tea,Green Tea,$77,142,New York,80,60,130,27,Regular
+510,20,12/1/2013,677,101,Major Market,West,22,1,Leaves,Tea,Green Tea,$70,179,California,80,50,120,54,Regular
+541,-13,12/1/2013,435,60,Small Market,West,13,1,Beans,Coffee,Decaf Irish Cream,$37,108,Oregon,80,50,120,35,Decaf
+920,3,12/1/2013,403,80,Small Market,Central,24,1,Beans,Coffee,Amaretto,$33,155,Wisconsin,80,30,140,58,Regular
+541,-30,12/1/2013,521,65,Small Market,West,42,1,Beans,Coffee,Amaretto,-$10,119,Oregon,80,20,130,72,Regular
+435,-19,12/1/2013,392,65,Small Market,West,16,1,Beans,Coffee,Colombian,$31,121,Utah,80,50,130,44,Regular
+509,4,12/1/2013,403,80,Small Market,West,24,1,Beans,Espresso,Caffe Mocha,$34,155,Washington,80,30,140,57,Regular
+318,9,12/1/2013,619,85,Small Market,South,25,1,Leaves,Herbal Tea,Lemon,$39,163,Louisiana,80,30,140,59,Decaf
+214,-54,10/1/2012,541,51,Major Market,South,12,1,Beans,Coffee,Decaf Irish Cream,$26,90,Texas,90,80,130,25,Decaf
+936,-155,10/1/2012,1246,281,Major Market,South,74,1,Beans,Coffee,Colombian,$185,520,Texas,420,340,770,96,Regular
+210,33,10/1/2012,915,179,Major Market,South,34,1,Beans,Espresso,Caffe Mocha,$133,302,Texas,120,100,190,46,Regular
+225,-35,10/1/2012,851,70,Small Market,South,13,1,Beans,Coffee,Decaf Irish Cream,$45,118,Louisiana,90,80,160,25,Decaf
+225,-33,10/1/2012,829,71,Small Market,South,13,1,Beans,Coffee,Colombian,$47,119,Louisiana,90,80,160,24,Regular
+505,-57,10/1/2012,447,69,Small Market,South,14,1,Beans,Coffee,Colombian,$23,114,New Mexico,110,80,160,46,Regular
+918,-66,10/1/2012,572,115,Small Market,South,29,1,Beans,Coffee,Colombian,$74,205,Oklahoma,160,140,290,41,Regular
+505,-22,10/1/2012,-466,31,Small Market,South,9,1,Beans,Espresso,Caffe Latte,-$12,56,New Mexico,20,10,30,43,Regular
+225,-23,10/1/2012,564,133,Small Market,South,33,1,Leaves,Herbal Tea,Chamomile,$87,236,Louisiana,130,110,210,46,Decaf
+504,-26,10/1/2012,593,98,Small Market,South,30,1,Leaves,Herbal Tea,Lemon,$34,177,Louisiana,90,60,150,64,Decaf
+405,-23,10/1/2012,683,134,Small Market,South,87,1,Leaves,Herbal Tea,Lemon,$17,230,Oklahoma,120,40,200,117,Decaf
+956,-56,11/1/2012,1272,265,Major Market,South,69,1,Beans,Coffee,Colombian,$174,490,Texas,320,230,580,91,Regular
+817,19,11/1/2012,-1050,114,Major Market,South,24,1,Beans,Espresso,Caffe Latte,$59,189,Texas,90,40,140,55,Regular
+409,27,11/1/2012,930,172,Major Market,South,33,1,Beans,Espresso,Caffe Mocha,$127,290,Texas,130,100,220,45,Regular
+918,22,11/1/2012,798,119,Small Market,South,25,1,Beans,Espresso,Decaf Espresso,$62,197,Oklahoma,90,40,150,57,Decaf
+918,-19,11/1/2012,561,112,Small Market,South,29,1,Beans,Coffee,Colombian,$71,200,Oklahoma,130,90,230,41,Regular
+918,29,11/1/2012,-2003,143,Small Market,South,31,1,Beans,Espresso,Caffe Latte,$89,245,Oklahoma,100,60,180,54,Regular
+337,5,11/1/2012,552,130,Small Market,South,33,1,Leaves,Herbal Tea,Chamomile,$85,231,Louisiana,120,80,210,45,Decaf
+505,-1,11/1/2012,848,24,Small Market,South,4,1,Leaves,Herbal Tea,Chamomile,$9,39,New Mexico,20,10,30,15,Decaf
+337,-2,11/1/2012,601,102,Small Market,South,31,1,Leaves,Herbal Tea,Lemon,$38,184,Louisiana,100,40,170,64,Decaf
+580,-5,11/1/2012,694,130,Small Market,South,85,1,Leaves,Herbal Tea,Lemon,$15,224,Oklahoma,120,20,200,115,Decaf
+972,-52,12/1/2012,1321,284,Major Market,South,74,1,Beans,Coffee,Colombian,$188,525,Texas,340,240,620,96,Regular
+972,23,12/1/2012,959,179,Major Market,South,34,1,Beans,Espresso,Caffe Mocha,$133,302,Texas,140,110,230,46,Regular
+505,-24,12/1/2012,1898,68,Small Market,South,28,1,Beans,Coffee,Decaf Irish Cream,$16,160,New Mexico,90,40,190,52,Decaf
+405,12,12/1/2012,817,133,Small Market,South,29,1,Beans,Espresso,Decaf Espresso,$72,221,Oklahoma,110,60,170,61,Decaf
+318,-24,12/1/2012,845,71,Small Market,South,13,1,Beans,Coffee,Colombian,$46,120,Louisiana,90,70,140,25,Regular
+505,-23,12/1/2012,462,74,Small Market,South,15,1,Beans,Coffee,Colombian,$27,122,New Mexico,90,50,140,47,Regular
+405,-34,12/1/2012,551,104,Small Market,South,26,1,Beans,Coffee,Colombian,$66,185,Oklahoma,130,100,220,38,Regular
+505,-5,12/1/2012,-598,25,Small Market,South,7,1,Beans,Espresso,Caffe Latte,-$15,45,New Mexico,20,-10,30,40,Regular
+918,31,12/1/2012,-2248,186,Small Market,South,41,1,Beans,Espresso,Caffe Latte,$121,320,Oklahoma,140,90,240,65,Regular
+225,7,12/1/2012,540,120,Small Market,South,31,1,Leaves,Herbal Tea,Chamomile,$77,214,Louisiana,110,70,190,43,Decaf
+505,-1,12/1/2012,851,25,Small Market,South,4,1,Leaves,Herbal Tea,Chamomile,$9,41,New Mexico,20,10,30,16,Decaf
+580,-10,12/1/2012,716,145,Small Market,South,95,1,Leaves,Herbal Tea,Lemon,$20,250,Oklahoma,140,30,230,125,Decaf
+281,-41,10/1/2013,541,51,Major Market,South,12,1,Beans,Coffee,Decaf Irish Cream,$39,96,Texas,90,80,130,25,Decaf
+432,-65,10/1/2013,1246,281,Major Market,South,74,1,Beans,Coffee,Colombian,$275,554,Texas,420,340,770,96,Regular
+817,97,10/1/2013,915,179,Major Market,South,34,1,Beans,Espresso,Caffe Mocha,$197,322,Texas,120,100,190,46,Regular
+985,-13,10/1/2013,851,70,Small Market,South,13,1,Beans,Coffee,Decaf Irish Cream,$67,126,Louisiana,90,80,160,25,Decaf
+337,-10,10/1/2013,829,71,Small Market,South,13,1,Beans,Coffee,Colombian,$70,127,Louisiana,90,80,160,24,Regular
+505,-46,10/1/2013,447,69,Small Market,South,14,1,Beans,Coffee,Colombian,$34,121,New Mexico,110,80,160,46,Regular
+918,-30,10/1/2013,572,115,Small Market,South,29,1,Beans,Coffee,Colombian,$110,218,Oklahoma,160,140,290,41,Regular
+505,-28,10/1/2013,-466,31,Small Market,South,9,1,Beans,Espresso,Caffe Latte,-$18,60,New Mexico,20,10,30,43,Regular
+318,19,10/1/2013,564,133,Small Market,South,33,1,Leaves,Herbal Tea,Chamomile,$129,251,Louisiana,130,110,210,46,Decaf
+225,-10,10/1/2013,593,98,Small Market,South,30,1,Leaves,Herbal Tea,Lemon,$50,189,Louisiana,90,60,150,64,Decaf
+918,-15,10/1/2013,683,134,Small Market,South,87,1,Leaves,Herbal Tea,Lemon,$25,245,Oklahoma,120,40,200,117,Decaf
+432,28,11/1/2013,1272,265,Major Market,South,69,1,Beans,Coffee,Colombian,$258,522,Texas,320,230,580,91,Regular
+806,48,11/1/2013,-1050,114,Major Market,South,24,1,Beans,Espresso,Caffe Latte,$88,201,Texas,90,40,140,55,Regular
+915,88,11/1/2013,930,172,Major Market,South,33,1,Beans,Espresso,Caffe Mocha,$188,309,Texas,130,100,220,45,Regular
+580,52,11/1/2013,798,119,Small Market,South,25,1,Beans,Espresso,Decaf Espresso,$92,210,Oklahoma,90,40,150,57,Decaf
+918,15,11/1/2013,561,112,Small Market,South,29,1,Beans,Coffee,Colombian,$105,213,Oklahoma,130,90,230,41,Regular
+405,72,11/1/2013,-2003,143,Small Market,South,31,1,Beans,Espresso,Caffe Latte,$132,261,Oklahoma,100,60,180,54,Regular
+985,46,11/1/2013,552,130,Small Market,South,33,1,Leaves,Herbal Tea,Chamomile,$126,246,Louisiana,120,80,210,45,Decaf
+505,3,11/1/2013,848,24,Small Market,South,4,1,Leaves,Herbal Tea,Chamomile,$13,42,New Mexico,20,10,30,15,Decaf
+337,16,11/1/2013,601,102,Small Market,South,31,1,Leaves,Herbal Tea,Lemon,$56,196,Louisiana,100,40,170,64,Decaf
+405,2,11/1/2013,694,130,Small Market,South,85,1,Leaves,Herbal Tea,Lemon,$22,239,Oklahoma,120,20,200,115,Decaf
+409,39,12/1/2013,1321,284,Major Market,South,74,1,Beans,Coffee,Colombian,$279,559,Texas,340,240,620,96,Regular
+254,87,12/1/2013,959,179,Major Market,South,34,1,Beans,Espresso,Caffe Mocha,$197,322,Texas,140,110,230,46,Regular
+505,-16,12/1/2013,1898,68,Small Market,South,28,1,Beans,Coffee,Decaf Irish Cream,$24,171,New Mexico,90,40,190,52,Decaf
+918,47,12/1/2013,817,133,Small Market,South,29,1,Beans,Espresso,Decaf Espresso,$107,236,Oklahoma,110,60,170,61,Decaf
+985,-2,12/1/2013,845,71,Small Market,South,13,1,Beans,Coffee,Colombian,$68,128,Louisiana,90,70,140,25,Regular
+505,-10,12/1/2013,462,74,Small Market,South,15,1,Beans,Coffee,Colombian,$40,130,New Mexico,90,50,140,47,Regular
+580,-2,12/1/2013,551,104,Small Market,South,26,1,Beans,Coffee,Colombian,$98,197,Oklahoma,130,100,220,38,Regular
+505,-12,12/1/2013,-598,25,Small Market,South,7,1,Beans,Espresso,Caffe Latte,-$22,48,New Mexico,20,-10,30,40,Regular
+918,90,12/1/2013,-2248,186,Small Market,South,41,1,Beans,Espresso,Caffe Latte,$180,341,Oklahoma,140,90,240,65,Regular
+985,44,12/1/2013,540,120,Small Market,South,31,1,Leaves,Herbal Tea,Chamomile,$114,228,Louisiana,110,70,190,43,Decaf
+505,3,12/1/2013,851,25,Small Market,South,4,1,Leaves,Herbal Tea,Chamomile,$13,44,New Mexico,20,10,30,16,Decaf
+580,0,12/1/2013,716,145,Small Market,South,95,1,Leaves,Herbal Tea,Lemon,$30,266,Oklahoma,140,30,230,125,Decaf
+860,-15,10/1/2012,1119,188,Small Market,East,41,1,Beans,Coffee,Colombian,$115,313,Connecticut,160,130,260,73,Regular
+203,-39,10/1/2012,606,84,Small Market,East,54,1,Beans,Espresso,Caffe Mocha,$1,144,Connecticut,90,40,130,83,Regular
+203,-8,11/1/2012,1134,195,Small Market,East,42,1,Beans,Coffee,Colombian,$122,325,Connecticut,180,130,290,73,Regular
+203,-5,12/1/2012,1166,174,Small Market,East,37,1,Beans,Coffee,Colombian,$105,289,Connecticut,160,110,260,69,Regular
+203,41,10/1/2013,1119,188,Small Market,East,41,1,Beans,Coffee,Colombian,$171,334,Connecticut,160,130,260,73,Regular
+959,-39,10/1/2013,606,84,Small Market,East,54,1,Beans,Espresso,Caffe Mocha,$1,153,Connecticut,90,40,130,83,Regular
+203,51,11/1/2013,1134,195,Small Market,East,42,1,Beans,Coffee,Colombian,$181,346,Connecticut,180,130,290,73,Regular
+959,46,12/1/2013,1166,174,Small Market,East,37,1,Beans,Coffee,Colombian,$156,308,Connecticut,160,110,260,69,Regular
+561,-14,10/1/2012,656,127,Major Market,East,28,1,Beans,Coffee,Decaf Irish Cream,$76,218,Florida,110,90,180,51,Decaf
+239,-30,10/1/2012,547,116,Major Market,East,28,1,Beans,Espresso,Decaf Espresso,$60,202,Florida,110,90,180,56,Decaf
+407,-26,10/1/2012,788,123,Major Market,East,27,1,Beans,Coffee,Colombian,$64,205,Florida,110,90,170,59,Regular
+857,18,10/1/2012,-3004,402,Major Market,East,23,1,Beans,Coffee,Colombian,$348,474,Massachusetts,350,330,400,54,Regular
+315,17,10/1/2012,2548,390,Major Market,East,91,1,Beans,Coffee,Colombian,$247,650,New York,330,230,540,143,Regular
+239,-32,10/1/2012,683,134,Major Market,East,87,1,Beans,Espresso,Caffe Mocha,$18,230,Florida,130,50,210,116,Regular
+845,-32,10/1/2012,3142,-56,Major Market,East,113,1,Beans,Espresso,Caffe Mocha,-$202,69,New York,-60,-170,50,146,Regular
+781,-28,10/1/2012,1267,161,Major Market,East,45,1,Beans,Espresso,Regular Espresso,$92,322,Massachusetts,160,120,300,69,Regular
+718,-15,10/1/2012,1197,526,Major Market,East,66,1,Beans,Espresso,Regular Espresso,$435,765,New York,510,450,720,91,Regular
+386,-10,10/1/2012,573,29,Major Market,East,7,1,Leaves,Herbal Tea,Chamomile,$10,51,Florida,20,20,20,19,Decaf
+845,59,10/1/2012,1622,258,Major Market,East,96,1,Leaves,Herbal Tea,Lemon,$129,513,New York,150,70,290,129,Decaf
+315,-70,10/1/2012,4360,-75,Major Market,East,74,1,Leaves,Herbal Tea,Mint,-$170,164,New York,-50,-100,80,95,Decaf
+516,-25,10/1/2012,971,157,Major Market,East,30,1,Leaves,Tea,Darjeeling,$115,265,New York,170,140,280,42,Regular
+716,-26,10/1/2012,915,179,Major Market,East,34,1,Leaves,Tea,Earl Grey,$134,302,New York,190,160,320,45,Regular
+518,-22,10/1/2012,580,111,Major Market,East,21,1,Leaves,Tea,Green Tea,$78,187,New York,120,100,200,33,Regular
+772,-1,11/1/2012,666,143,Major Market,East,31,1,Beans,Coffee,Decaf Irish Cream,$89,245,Florida,130,90,220,54,Decaf
+561,-9,11/1/2012,557,103,Major Market,East,25,1,Beans,Espresso,Decaf Espresso,$51,180,Florida,100,60,170,52,Decaf
+754,3,11/1/2012,798,119,Major Market,East,25,1,Beans,Coffee,Colombian,$63,197,Florida,100,60,170,56,Regular
+978,24,11/1/2012,-3287,379,Major Market,East,24,1,Beans,Coffee,Colombian,$324,454,Massachusetts,340,300,400,55,Regular
+347,6,11/1/2012,2580,374,Major Market,East,87,1,Beans,Coffee,Colombian,$236,623,New York,340,230,560,138,Regular
+754,-5,11/1/2012,694,130,Major Market,East,85,1,Beans,Espresso,Caffe Mocha,$15,224,Florida,120,20,210,115,Regular
+347,-12,11/1/2012,3385,-60,Major Market,East,109,1,Beans,Espresso,Caffe Mocha,-$202,61,New York,-60,-190,50,142,Regular
+508,-12,11/1/2012,1283,182,Major Market,East,50,1,Beans,Espresso,Regular Espresso,$108,363,Massachusetts,180,120,350,74,Regular
+646,-9,11/1/2012,933,464,Major Market,East,59,1,Beans,Espresso,Regular Espresso,$381,675,New York,460,390,660,83,Regular
+561,1,11/1/2012,570,30,Major Market,East,7,1,Leaves,Herbal Tea,Chamomile,$11,52,Florida,20,10,30,19,Decaf
+631,64,11/1/2012,1704,331,Major Market,East,93,1,Leaves,Herbal Tea,Lemon,$204,576,New York,240,140,420,127,Decaf
+914,-36,11/1/2012,4742,-65,Major Market,East,69,1,Leaves,Herbal Tea,Mint,-$156,160,New York,-50,-120,110,91,Decaf
+518,-6,11/1/2012,984,117,Major Market,East,22,1,Leaves,Tea,Darjeeling,$84,198,New York,120,90,200,33,Regular
+315,-3,11/1/2012,930,172,Major Market,East,33,1,Leaves,Tea,Earl Grey,$127,290,New York,170,130,290,45,Regular
+813,12,12/1/2012,690,186,Major Market,East,41,1,Beans,Coffee,Decaf Irish Cream,$122,320,Florida,160,110,280,64,Decaf
+407,-12,12/1/2012,575,112,Major Market,East,27,1,Beans,Espresso,Decaf Espresso,$58,195,Florida,110,70,190,54,Decaf
+754,-7,12/1/2012,817,133,Major Market,East,29,1,Beans,Coffee,Colombian,$73,221,Florida,120,80,190,60,Regular
+351,30,12/1/2012,-3534,443,Major Market,East,22,1,Beans,Coffee,Colombian,$390,510,Massachusetts,390,360,450,53,Regular
+845,21,12/1/2012,2642,420,Major Market,East,97,1,Beans,Coffee,Colombian,$271,699,New York,370,250,620,149,Regular
+305,-9,12/1/2012,716,145,Major Market,East,95,1,Beans,Espresso,Caffe Mocha,$21,250,Florida,140,30,240,124,Regular
+212,-14,12/1/2012,3641,-69,Major Market,East,122,1,Beans,Espresso,Caffe Mocha,-$224,66,New York,-70,-210,60,155,Regular
+351,7,12/1/2012,1319,153,Major Market,East,42,1,Beans,Espresso,Regular Espresso,$87,306,Massachusetts,140,80,290,66,Regular
+718,-8,12/1/2012,723,407,Major Market,East,70,1,Beans,Espresso,Regular Espresso,$312,657,New York,400,320,640,95,Regular
+607,99,12/1/2012,1727,453,Major Market,East,111,1,Leaves,Herbal Tea,Lemon,$309,747,New York,320,210,540,144,Decaf
+716,-39,12/1/2012,5121,-93,Major Market,East,74,1,Leaves,Herbal Tea,Mint,-$189,148,New York,-80,-150,100,96,Decaf
+716,-1,12/1/2012,1003,124,Major Market,East,24,1,Leaves,Tea,Darjeeling,$89,210,New York,120,90,210,35,Regular
+718,-17,12/1/2012,959,179,Major Market,East,34,1,Leaves,Tea,Earl Grey,$133,302,New York,190,150,310,46,Regular
+772,23,10/1/2013,656,127,Major Market,East,28,1,Beans,Coffee,Decaf Irish Cream,$113,232,Florida,110,90,180,51,Decaf
+321,-1,10/1/2013,547,116,Major Market,East,28,1,Beans,Espresso,Decaf Espresso,$89,215,Florida,110,90,180,56,Decaf
+954,5,10/1/2013,788,123,Major Market,East,27,1,Beans,Coffee,Colombian,$95,218,Florida,110,90,170,59,Regular
+857,186,10/1/2013,-3004,402,Major Market,East,23,1,Beans,Coffee,Colombian,$516,505,Massachusetts,350,330,400,54,Regular
+716,137,10/1/2013,2548,390,Major Market,East,91,1,Beans,Coffee,Colombian,$367,693,New York,330,230,540,143,Regular
+727,-23,10/1/2013,683,134,Major Market,East,87,1,Beans,Espresso,Caffe Mocha,$27,245,Florida,130,50,210,116,Regular
+914,-130,10/1/2013,3142,-56,Major Market,East,113,1,Beans,Espresso,Caffe Mocha,-$300,74,New York,-60,-170,50,146,Regular
+508,17,10/1/2013,1267,161,Major Market,East,45,1,Beans,Espresso,Regular Espresso,$137,343,Massachusetts,160,120,300,69,Regular
+212,196,10/1/2013,1197,526,Major Market,East,66,1,Beans,Espresso,Regular Espresso,$646,815,New York,510,450,720,91,Regular
+904,-5,10/1/2013,573,29,Major Market,East,7,1,Leaves,Herbal Tea,Chamomile,$15,54,Florida,20,20,20,19,Decaf
+585,121,10/1/2013,1622,258,Major Market,East,96,1,Leaves,Herbal Tea,Lemon,$191,547,New York,150,70,290,129,Decaf
+631,-152,10/1/2013,4360,-75,Major Market,East,74,1,Leaves,Herbal Tea,Mint,-$252,175,New York,-50,-100,80,95,Decaf
+585,31,10/1/2013,971,157,Major Market,East,30,1,Leaves,Tea,Darjeeling,$171,282,New York,170,140,280,42,Regular
+718,39,10/1/2013,915,179,Major Market,East,34,1,Leaves,Tea,Earl Grey,$199,322,New York,190,160,320,45,Regular
+607,16,10/1/2013,580,111,Major Market,East,21,1,Leaves,Tea,Green Tea,$116,199,New York,120,100,200,33,Regular
+904,42,11/1/2013,666,143,Major Market,East,31,1,Beans,Coffee,Decaf Irish Cream,$132,261,Florida,130,90,220,54,Decaf
+772,16,11/1/2013,557,103,Major Market,East,25,1,Beans,Espresso,Decaf Espresso,$76,192,Florida,100,60,170,52,Decaf
+786,33,11/1/2013,798,119,Major Market,East,25,1,Beans,Coffee,Colombian,$93,210,Florida,100,60,170,56,Regular
+857,181,11/1/2013,-3287,379,Major Market,East,24,1,Beans,Coffee,Colombian,$481,484,Massachusetts,340,300,400,55,Regular
+607,120,11/1/2013,2580,374,Major Market,East,87,1,Beans,Coffee,Colombian,$350,664,New York,340,230,560,138,Regular
+813,2,11/1/2013,694,130,Major Market,East,85,1,Beans,Espresso,Caffe Mocha,$22,239,Florida,120,20,210,115,Regular
+914,-110,11/1/2013,3385,-60,Major Market,East,109,1,Beans,Espresso,Caffe Mocha,-$300,65,New York,-60,-190,50,142,Regular
+617,40,11/1/2013,1283,182,Major Market,East,50,1,Beans,Espresso,Regular Espresso,$160,387,Massachusetts,180,120,350,74,Regular
+917,175,11/1/2013,933,464,Major Market,East,59,1,Beans,Espresso,Regular Espresso,$565,719,New York,460,390,660,83,Regular
+727,6,11/1/2013,570,30,Major Market,East,7,1,Leaves,Herbal Tea,Chamomile,$16,55,Florida,20,10,30,19,Decaf
+585,163,11/1/2013,1704,331,Major Market,East,93,1,Leaves,Herbal Tea,Lemon,$303,614,New York,240,140,420,127,Decaf
+518,-112,11/1/2013,4742,-65,Major Market,East,69,1,Leaves,Herbal Tea,Mint,-$232,171,New York,-50,-120,110,91,Decaf
+516,35,11/1/2013,984,117,Major Market,East,22,1,Leaves,Tea,Darjeeling,$125,211,New York,120,90,200,33,Regular
+914,58,11/1/2013,930,172,Major Market,East,33,1,Leaves,Tea,Earl Grey,$188,309,New York,170,130,290,45,Regular
+727,71,12/1/2013,690,186,Major Market,East,41,1,Beans,Coffee,Decaf Irish Cream,$181,341,Florida,160,110,280,64,Decaf
+386,16,12/1/2013,575,112,Major Market,East,27,1,Beans,Espresso,Decaf Espresso,$86,208,Florida,110,70,190,54,Decaf
+407,28,12/1/2013,817,133,Major Market,East,29,1,Beans,Coffee,Colombian,$108,236,Florida,120,80,190,60,Regular
+351,219,12/1/2013,-3534,443,Major Market,East,22,1,Beans,Coffee,Colombian,$579,543,Massachusetts,390,360,450,53,Regular
+315,152,12/1/2013,2642,420,Major Market,East,97,1,Beans,Coffee,Colombian,$402,745,New York,370,250,620,149,Regular
+305,1,12/1/2013,716,145,Major Market,East,95,1,Beans,Espresso,Caffe Mocha,$31,266,Florida,140,30,240,124,Regular
+845,-122,12/1/2013,3641,-69,Major Market,East,122,1,Beans,Espresso,Caffe Mocha,-$332,70,New York,-70,-210,60,155,Regular
+857,49,12/1/2013,1319,153,Major Market,East,42,1,Beans,Espresso,Regular Espresso,$129,326,Massachusetts,140,80,290,66,Regular
+518,143,12/1/2013,723,407,Major Market,East,70,1,Beans,Espresso,Regular Espresso,$463,700,New York,400,320,640,95,Regular
+631,249,12/1/2013,1727,453,Major Market,East,111,1,Leaves,Herbal Tea,Lemon,$459,796,New York,320,210,540,144,Decaf
+716,-130,12/1/2013,5121,-93,Major Market,East,74,1,Leaves,Herbal Tea,Mint,-$280,158,New York,-80,-150,100,96,Decaf
+718,42,12/1/2013,1003,124,Major Market,East,24,1,Leaves,Tea,Darjeeling,$132,224,New York,120,90,210,35,Regular
+518,47,12/1/2013,959,179,Major Market,East,34,1,Leaves,Tea,Earl Grey,$197,322,New York,190,150,310,46,Regular
+719,-34,10/1/2012,971,157,Major Market,Central,30,1,Beans,Coffee,Decaf Irish Cream,$116,265,Colorado,160,150,260,41,Decaf
+815,-45,10/1/2012,789,176,Major Market,Central,39,1,Beans,Coffee,Decaf Irish Cream,$115,298,Illinois,190,160,300,61,Decaf
+303,-74,10/1/2012,650,110,Major Market,Central,23,1,Beans,Espresso,Decaf Espresso,$56,182,Colorado,160,130,260,54,Decaf
+312,-151,10/1/2012,1755,239,Major Market,Central,66,1,Beans,Espresso,Decaf Espresso,$149,478,Illinois,370,300,710,90,Decaf
+614,-58,10/1/2012,404,66,Major Market,Central,20,1,Beans,Espresso,Decaf Espresso,$12,120,Ohio,100,70,170,54,Decaf
+970,-27,10/1/2012,915,179,Major Market,Central,34,1,Beans,Coffee,Amaretto,$133,302,Colorado,180,160,300,46,Regular
+815,-40,10/1/2012,1132,213,Major Market,Central,50,1,Beans,Coffee,Colombian,$120,367,Illinois,220,160,370,93,Regular
+303,-91,10/1/2012,580,111,Major Market,Central,21,1,Beans,Espresso,Caffe Mocha,$79,187,Colorado,180,170,280,32,Regular
+815,-196,10/1/2012,1662,341,Major Market,Central,84,1,Beans,Espresso,Caffe Mocha,$224,598,Illinois,520,420,890,117,Regular
+567,-98,10/1/2012,1267,161,Major Market,Central,45,1,Beans,Espresso,Caffe Mocha,$92,322,Ohio,240,190,470,69,Regular
+719,-18,10/1/2012,1267,161,Major Market,Central,45,1,Leaves,Herbal Tea,Chamomile,$92,322,Colorado,140,110,260,69,Decaf
+708,-7,10/1/2012,915,179,Major Market,Central,34,1,Leaves,Herbal Tea,Chamomile,$133,302,Illinois,150,140,240,46,Decaf
+815,-4,10/1/2012,971,157,Major Market,Central,30,1,Leaves,Herbal Tea,Mint,$116,265,Illinois,130,120,210,41,Decaf
+234,5,10/1/2012,788,123,Major Market,Central,27,1,Leaves,Tea,Darjeeling,$65,205,Ohio,90,60,140,58,Regular
+614,-4,10/1/2012,656,127,Major Market,Central,28,1,Leaves,Tea,Earl Grey,$76,218,Ohio,100,80,150,51,Regular
+720,-6,10/1/2012,572,115,Major Market,Central,29,1,Leaves,Tea,Green Tea,$74,205,Colorado,90,80,140,41,Regular
+641,-12,10/1/2012,598,13,Small Market,Central,3,1,Beans,Coffee,Decaf Irish Cream,-$2,23,Iowa,10,10,10,15,Decaf
+715,-39,10/1/2012,547,116,Small Market,Central,28,1,Beans,Coffee,Decaf Irish Cream,$61,202,Wisconsin,120,100,200,55,Decaf
+816,-35,10/1/2012,593,98,Small Market,Central,30,1,Beans,Coffee,Colombian,$35,177,Missouri,100,70,170,63,Regular
+715,-42,10/1/2012,683,134,Small Market,Central,87,1,Beans,Coffee,Colombian,$18,230,Wisconsin,140,60,230,116,Regular
+314,-54,10/1/2012,881,59,Small Market,Central,11,1,Beans,Espresso,Caffe Mocha,$36,99,Missouri,90,90,140,23,Regular
+608,-72,10/1/2012,1055,94,Small Market,Central,24,1,Beans,Espresso,Caffe Mocha,$48,174,Wisconsin,140,120,250,46,Regular
+712,14,10/1/2012,1662,341,Small Market,Central,84,1,Leaves,Herbal Tea,Chamomile,$224,598,Iowa,280,210,480,117,Decaf
+641,-16,10/1/2012,789,176,Small Market,Central,39,1,Leaves,Herbal Tea,Lemon,$114,298,Iowa,150,130,240,62,Decaf
+573,-36,10/1/2012,1698,23,Small Market,Central,26,1,Leaves,Herbal Tea,Lemon,-$26,109,Missouri,20,10,80,49,Decaf
+563,39,10/1/2012,1755,239,Small Market,Central,66,1,Leaves,Tea,Darjeeling,$149,478,Iowa,170,110,340,90,Regular
+563,53,10/1/2012,1756,312,Small Market,Central,96,1,Leaves,Tea,Earl Grey,$183,567,Iowa,230,130,400,129,Regular
+417,-11,10/1/2012,209,31,Small Market,Central,9,1,Leaves,Tea,Earl Grey,-$11,56,Missouri,20,0,30,42,Regular
+970,4,11/1/2012,984,117,Major Market,Central,22,1,Beans,Coffee,Decaf Irish Cream,$84,198,Colorado,110,80,190,33,Decaf
+815,-4,11/1/2012,803,165,Major Market,Central,36,1,Beans,Coffee,Decaf Irish Cream,$106,278,Illinois,160,110,270,59,Decaf
+303,-42,11/1/2012,659,114,Major Market,Central,24,1,Beans,Espresso,Decaf Espresso,$58,189,Colorado,150,100,240,56,Decaf
+847,-71,11/1/2012,1778,212,Major Market,Central,59,1,Beans,Espresso,Decaf Espresso,$129,423,Illinois,270,200,540,83,Decaf
+970,-2,11/1/2012,930,172,Major Market,Central,33,1,Beans,Coffee,Amaretto,$128,290,Colorado,170,130,280,44,Regular
+815,-1,11/1/2012,1150,239,Major Market,Central,57,1,Beans,Coffee,Colombian,$139,412,Illinois,230,140,400,100,Regular
+303,-22,11/1/2012,589,73,Major Market,Central,14,1,Beans,Espresso,Caffe Mocha,$48,123,Colorado,90,70,150,25,Regular
+224,-94,11/1/2012,1691,304,Major Market,Central,75,1,Beans,Espresso,Caffe Mocha,$196,532,Illinois,390,290,680,108,Regular
+440,-63,11/1/2012,1283,182,Major Market,Central,50,1,Beans,Espresso,Caffe Mocha,$107,363,Ohio,230,170,460,75,Regular
+970,7,11/1/2012,1283,182,Major Market,Central,50,1,Leaves,Herbal Tea,Chamomile,$107,363,Colorado,160,100,330,75,Decaf
+312,17,11/1/2012,930,172,Major Market,Central,33,1,Leaves,Herbal Tea,Chamomile,$127,290,Illinois,150,110,260,45,Decaf
+630,4,11/1/2012,984,117,Major Market,Central,22,1,Leaves,Herbal Tea,Mint,$84,198,Illinois,110,80,180,33,Decaf
+330,2,11/1/2012,798,119,Major Market,Central,25,1,Leaves,Tea,Darjeeling,$62,197,Ohio,100,60,160,57,Regular
+630,9,11/1/2012,659,114,Major Market,Central,24,1,Leaves,Tea,Earl Grey,$59,189,Illinois,90,50,150,55,Regular
+419,19,11/1/2012,666,143,Major Market,Central,31,1,Leaves,Tea,Earl Grey,$89,245,Ohio,120,70,200,54,Regular
+719,10,11/1/2012,561,112,Major Market,Central,29,1,Leaves,Tea,Green Tea,$70,200,Colorado,90,60,160,42,Regular
+641,-13,11/1/2012,596,13,Small Market,Central,3,1,Beans,Coffee,Decaf Irish Cream,-$3,23,Iowa,20,10,20,16,Decaf
+262,-9,11/1/2012,557,103,Small Market,Central,25,1,Beans,Coffee,Decaf Irish Cream,$51,180,Wisconsin,100,60,170,52,Decaf
+563,-2,11/1/2012,848,24,Small Market,Central,4,1,Beans,Coffee,Amaretto,$8,39,Iowa,20,10,30,16,Regular
+573,-2,11/1/2012,601,102,Small Market,Central,31,1,Beans,Coffee,Colombian,$38,184,Missouri,100,40,180,64,Regular
+262,-14,11/1/2012,694,130,Small Market,Central,85,1,Beans,Coffee,Colombian,$16,224,Wisconsin,130,30,220,114,Regular
+314,-29,11/1/2012,885,78,Small Market,Central,15,1,Beans,Espresso,Caffe Mocha,$51,132,Missouri,100,80,160,27,Regular
+920,-25,11/1/2012,1063,89,Small Market,Central,23,1,Beans,Espresso,Caffe Mocha,$45,164,Wisconsin,110,70,200,44,Regular
+712,16,11/1/2012,1691,304,Small Market,Central,75,1,Leaves,Herbal Tea,Chamomile,$196,532,Iowa,280,180,490,108,Decaf
+712,7,11/1/2012,803,165,Small Market,Central,36,1,Leaves,Herbal Tea,Lemon,$107,278,Iowa,150,100,250,58,Decaf
+712,19,11/1/2012,1778,212,Small Market,Central,59,1,Leaves,Tea,Darjeeling,$129,423,Iowa,180,110,350,83,Regular
+319,43,11/1/2012,1784,300,Small Market,Central,93,1,Leaves,Tea,Earl Grey,$173,545,Iowa,250,130,450,127,Regular
+720,-2,12/1/2012,1003,124,Major Market,Central,24,1,Beans,Coffee,Decaf Irish Cream,$88,210,Colorado,120,90,200,36,Decaf
+630,-8,12/1/2012,830,185,Major Market,Central,40,1,Beans,Coffee,Decaf Irish Cream,$122,312,Illinois,180,130,300,63,Decaf
+970,-33,12/1/2012,677,101,Major Market,Central,22,1,Beans,Espresso,Decaf Espresso,$47,168,Colorado,130,80,210,54,Decaf
+630,-83,12/1/2012,1820,251,Major Market,Central,70,1,Beans,Espresso,Decaf Espresso,$157,501,Illinois,320,240,640,94,Decaf
+719,4,12/1/2012,959,179,Major Market,Central,34,1,Beans,Coffee,Amaretto,$134,302,Colorado,170,130,290,45,Regular
+847,4,12/1/2012,1191,310,Major Market,Central,73,1,Beans,Coffee,Colombian,$194,534,Illinois,300,190,520,116,Regular
+970,-37,12/1/2012,601,79,Major Market,Central,15,1,Beans,Espresso,Caffe Mocha,$53,133,Colorado,110,90,170,26,Regular
+815,-104,12/1/2012,1744,329,Major Market,Central,81,1,Beans,Espresso,Caffe Mocha,$216,576,Illinois,420,320,730,113,Regular
+740,-53,12/1/2012,1319,153,Major Market,Central,42,1,Beans,Espresso,Caffe Mocha,$87,306,Ohio,200,140,390,66,Regular
+303,7,12/1/2012,1319,153,Major Market,Central,42,1,Leaves,Herbal Tea,Chamomile,$87,306,Colorado,140,80,280,66,Decaf
+309,3,12/1/2012,959,179,Major Market,Central,34,1,Leaves,Herbal Tea,Chamomile,$133,302,Illinois,170,130,280,46,Decaf
+630,8,12/1/2012,1003,124,Major Market,Central,24,1,Leaves,Herbal Tea,Mint,$88,210,Illinois,110,80,190,36,Decaf
+513,2,12/1/2012,817,133,Major Market,Central,29,1,Leaves,Tea,Darjeeling,$72,221,Ohio,110,70,180,61,Regular
+740,31,12/1/2012,690,186,Major Market,Central,41,1,Leaves,Tea,Earl Grey,$121,320,Ohio,150,90,260,65,Regular
+719,6,12/1/2012,551,104,Major Market,Central,26,1,Leaves,Tea,Green Tea,$66,185,Colorado,90,60,150,38,Regular
+319,-11,12/1/2012,594,14,Small Market,Central,3,1,Beans,Coffee,Decaf Irish Cream,-$1,24,Iowa,20,10,20,15,Decaf
+715,-13,12/1/2012,575,112,Small Market,Central,27,1,Beans,Coffee,Decaf Irish Cream,$57,195,Wisconsin,110,70,190,55,Decaf
+573,-14,12/1/2012,619,85,Small Market,Central,25,1,Beans,Coffee,Colombian,$26,153,Missouri,90,40,150,59,Regular
+715,-10,12/1/2012,716,145,Small Market,Central,95,1,Beans,Coffee,Colombian,$20,250,Wisconsin,140,30,240,125,Regular
+314,-22,12/1/2012,898,73,Small Market,Central,14,1,Beans,Espresso,Caffe Mocha,$48,123,Missouri,90,70,150,25,Regular
+715,-30,12/1/2012,1079,96,Small Market,Central,24,1,Beans,Espresso,Caffe Mocha,$50,176,Wisconsin,120,80,220,46,Regular
+641,16,12/1/2012,1744,329,Small Market,Central,81,1,Leaves,Herbal Tea,Chamomile,$216,576,Iowa,300,200,530,113,Decaf
+319,3,12/1/2012,830,185,Small Market,Central,40,1,Leaves,Herbal Tea,Lemon,$123,312,Iowa,170,120,290,62,Decaf
+641,36,12/1/2012,1820,251,Small Market,Central,70,1,Leaves,Tea,Darjeeling,$156,501,Iowa,200,120,410,95,Regular
+641,46,12/1/2012,1838,360,Small Market,Central,111,1,Leaves,Tea,Earl Grey,$216,654,Iowa,300,170,540,144,Regular
+573,-6,12/1/2012,218,25,Small Market,Central,7,1,Leaves,Tea,Earl Grey,-$16,45,Missouri,20,-10,30,41,Regular
+719,22,10/1/2013,971,157,Major Market,Central,30,1,Beans,Coffee,Decaf Irish Cream,$172,282,Colorado,160,150,260,41,Decaf
+815,11,10/1/2013,789,176,Major Market,Central,39,1,Beans,Coffee,Decaf Irish Cream,$171,318,Illinois,190,160,300,61,Decaf
+970,-47,10/1/2013,650,110,Major Market,Central,23,1,Beans,Espresso,Decaf Espresso,$83,194,Colorado,160,130,260,54,Decaf
+773,-79,10/1/2013,1755,239,Major Market,Central,66,1,Beans,Espresso,Decaf Espresso,$221,509,Illinois,370,300,710,90,Decaf
+419,-52,10/1/2013,404,66,Major Market,Central,20,1,Beans,Espresso,Decaf Espresso,$18,128,Ohio,100,70,170,54,Decaf
+719,37,10/1/2013,915,179,Major Market,Central,34,1,Beans,Coffee,Amaretto,$197,322,Colorado,180,160,300,46,Regular
+815,18,10/1/2013,1132,213,Major Market,Central,50,1,Beans,Coffee,Colombian,$178,391,Illinois,220,160,370,93,Regular
+970,-53,10/1/2013,580,111,Major Market,Central,21,1,Beans,Espresso,Caffe Mocha,$117,199,Colorado,180,170,280,32,Regular
+312,-88,10/1/2013,1662,341,Major Market,Central,84,1,Beans,Espresso,Caffe Mocha,$332,637,Illinois,520,420,890,117,Regular
+513,-53,10/1/2013,1267,161,Major Market,Central,45,1,Beans,Espresso,Caffe Mocha,$137,343,Ohio,240,190,470,69,Regular
+720,27,10/1/2013,1267,161,Major Market,Central,45,1,Leaves,Herbal Tea,Chamomile,$137,343,Colorado,140,110,260,69,Decaf
+708,57,10/1/2013,915,179,Major Market,Central,34,1,Leaves,Herbal Tea,Chamomile,$197,322,Illinois,150,140,240,46,Decaf
+815,52,10/1/2013,971,157,Major Market,Central,30,1,Leaves,Herbal Tea,Mint,$172,282,Illinois,130,120,210,41,Decaf
+419,36,10/1/2013,788,123,Major Market,Central,27,1,Leaves,Tea,Darjeeling,$96,218,Ohio,90,60,140,58,Regular
+419,33,10/1/2013,656,127,Major Market,Central,28,1,Leaves,Tea,Earl Grey,$113,232,Ohio,100,80,150,51,Regular
+970,30,10/1/2013,572,115,Major Market,Central,29,1,Leaves,Tea,Green Tea,$110,218,Colorado,90,80,140,41,Regular
+641,-13,10/1/2013,598,13,Small Market,Central,3,1,Beans,Coffee,Decaf Irish Cream,-$3,25,Iowa,10,10,10,15,Decaf
+920,-9,10/1/2013,547,116,Small Market,Central,28,1,Beans,Coffee,Decaf Irish Cream,$91,215,Wisconsin,120,100,200,55,Decaf
+573,-18,10/1/2013,593,98,Small Market,Central,30,1,Beans,Coffee,Colombian,$52,189,Missouri,100,70,170,63,Regular
+414,-33,10/1/2013,683,134,Small Market,Central,87,1,Beans,Coffee,Colombian,$27,245,Wisconsin,140,60,230,116,Regular
+573,-37,10/1/2013,881,59,Small Market,Central,11,1,Beans,Espresso,Caffe Mocha,$53,106,Missouri,90,90,140,23,Regular
+262,-49,10/1/2013,1055,94,Small Market,Central,24,1,Beans,Espresso,Caffe Mocha,$71,185,Wisconsin,140,120,250,46,Regular
+319,122,10/1/2013,1662,341,Small Market,Central,84,1,Leaves,Herbal Tea,Chamomile,$332,637,Iowa,280,210,480,117,Decaf
+515,39,10/1/2013,789,176,Small Market,Central,39,1,Leaves,Herbal Tea,Lemon,$169,318,Iowa,150,130,240,62,Decaf
+417,-49,10/1/2013,1698,23,Small Market,Central,26,1,Leaves,Herbal Tea,Lemon,-$39,116,Missouri,20,10,80,49,Decaf
+515,111,10/1/2013,1755,239,Small Market,Central,66,1,Leaves,Tea,Darjeeling,$221,509,Iowa,170,110,340,90,Regular
+515,142,10/1/2013,1756,312,Small Market,Central,96,1,Leaves,Tea,Earl Grey,$272,604,Iowa,230,130,400,129,Regular
+573,-16,10/1/2013,209,31,Small Market,Central,9,1,Leaves,Tea,Earl Grey,-$16,60,Missouri,20,0,30,42,Regular
+720,45,11/1/2013,984,117,Major Market,Central,22,1,Beans,Coffee,Decaf Irish Cream,$125,211,Colorado,110,80,190,33,Decaf
+847,47,11/1/2013,803,165,Major Market,Central,36,1,Beans,Coffee,Decaf Irish Cream,$157,296,Illinois,160,110,270,59,Decaf
+970,-14,11/1/2013,659,114,Major Market,Central,24,1,Beans,Espresso,Decaf Espresso,$86,201,Colorado,150,100,240,56,Decaf
+847,-9,11/1/2013,1778,212,Major Market,Central,59,1,Beans,Espresso,Decaf Espresso,$191,451,Illinois,270,200,540,83,Decaf
+719,60,11/1/2013,930,172,Major Market,Central,33,1,Beans,Coffee,Amaretto,$190,309,Colorado,170,130,280,44,Regular
+815,66,11/1/2013,1150,239,Major Market,Central,57,1,Beans,Coffee,Colombian,$206,439,Illinois,230,140,400,100,Regular
+303,1,11/1/2013,589,73,Major Market,Central,14,1,Beans,Espresso,Caffe Mocha,$71,131,Colorado,90,70,150,25,Regular
+630,1,11/1/2013,1691,304,Major Market,Central,75,1,Beans,Espresso,Caffe Mocha,$291,567,Illinois,390,290,680,108,Regular
+234,-11,11/1/2013,1283,182,Major Market,Central,50,1,Beans,Espresso,Caffe Mocha,$159,387,Ohio,230,170,460,75,Regular
+970,59,11/1/2013,1283,182,Major Market,Central,50,1,Leaves,Herbal Tea,Chamomile,$159,387,Colorado,160,100,330,75,Decaf
+708,78,11/1/2013,930,172,Major Market,Central,33,1,Leaves,Herbal Tea,Chamomile,$188,309,Illinois,150,110,260,45,Decaf
+708,45,11/1/2013,984,117,Major Market,Central,22,1,Leaves,Herbal Tea,Mint,$125,211,Illinois,110,80,180,33,Decaf
+614,32,11/1/2013,798,119,Major Market,Central,25,1,Leaves,Tea,Darjeeling,$92,210,Ohio,100,60,160,57,Regular
+309,38,11/1/2013,659,114,Major Market,Central,24,1,Leaves,Tea,Earl Grey,$88,201,Illinois,90,50,150,55,Regular
+740,62,11/1/2013,666,143,Major Market,Central,31,1,Leaves,Tea,Earl Grey,$132,261,Ohio,120,70,200,54,Regular
+970,44,11/1/2013,561,112,Major Market,Central,29,1,Leaves,Tea,Green Tea,$104,213,Colorado,90,60,160,42,Regular
+319,-14,11/1/2013,596,13,Small Market,Central,3,1,Beans,Coffee,Decaf Irish Cream,-$4,25,Iowa,20,10,20,16,Decaf
+920,16,11/1/2013,557,103,Small Market,Central,25,1,Beans,Coffee,Decaf Irish Cream,$76,192,Wisconsin,100,60,170,52,Decaf
+712,2,11/1/2013,848,24,Small Market,Central,4,1,Beans,Coffee,Amaretto,$12,42,Iowa,20,10,30,16,Regular
+573,16,11/1/2013,601,102,Small Market,Central,31,1,Beans,Coffee,Colombian,$56,196,Missouri,100,40,180,64,Regular
+608,-6,11/1/2013,694,130,Small Market,Central,85,1,Beans,Coffee,Colombian,$24,239,Wisconsin,130,30,220,114,Regular
+573,-4,11/1/2013,885,78,Small Market,Central,15,1,Beans,Espresso,Caffe Mocha,$76,141,Missouri,100,80,160,27,Regular
+715,-3,11/1/2013,1063,89,Small Market,Central,23,1,Beans,Espresso,Caffe Mocha,$67,175,Wisconsin,110,70,200,44,Regular
+641,111,11/1/2013,1691,304,Small Market,Central,75,1,Leaves,Herbal Tea,Chamomile,$291,567,Iowa,280,180,490,108,Decaf
+641,59,11/1/2013,803,165,Small Market,Central,36,1,Leaves,Herbal Tea,Lemon,$159,296,Iowa,150,100,250,58,Decaf
+563,81,11/1/2013,1778,212,Small Market,Central,59,1,Leaves,Tea,Darjeeling,$191,451,Iowa,180,110,350,83,Regular
+641,127,11/1/2013,1784,300,Small Market,Central,93,1,Leaves,Tea,Earl Grey,$257,581,Iowa,250,130,450,127,Regular
+720,41,12/1/2013,1003,124,Major Market,Central,24,1,Beans,Coffee,Decaf Irish Cream,$131,224,Colorado,120,90,200,36,Decaf
+312,51,12/1/2013,830,185,Major Market,Central,40,1,Beans,Coffee,Decaf Irish Cream,$181,332,Illinois,180,130,300,63,Decaf
+720,-10,12/1/2013,677,101,Major Market,Central,22,1,Beans,Espresso,Decaf Espresso,$70,179,Colorado,130,80,210,54,Decaf
+773,-7,12/1/2013,1820,251,Major Market,Central,70,1,Beans,Espresso,Decaf Espresso,$233,534,Illinois,320,240,640,94,Decaf
+303,69,12/1/2013,959,179,Major Market,Central,34,1,Beans,Coffee,Amaretto,$199,322,Colorado,170,130,290,45,Regular
+312,98,12/1/2013,1191,310,Major Market,Central,73,1,Beans,Coffee,Colombian,$288,569,Illinois,300,190,520,116,Regular
+970,-11,12/1/2013,601,79,Major Market,Central,15,1,Beans,Espresso,Caffe Mocha,$79,142,Colorado,110,90,170,26,Regular
+708,1,12/1/2013,1744,329,Major Market,Central,81,1,Beans,Espresso,Caffe Mocha,$321,614,Illinois,420,320,730,113,Regular
+937,-11,12/1/2013,1319,153,Major Market,Central,42,1,Beans,Espresso,Caffe Mocha,$129,326,Ohio,200,140,390,66,Regular
+970,49,12/1/2013,1319,153,Major Market,Central,42,1,Leaves,Herbal Tea,Chamomile,$129,326,Colorado,140,80,280,66,Decaf
+618,67,12/1/2013,959,179,Major Market,Central,34,1,Leaves,Herbal Tea,Chamomile,$197,322,Illinois,170,130,280,46,Decaf
+312,51,12/1/2013,1003,124,Major Market,Central,24,1,Leaves,Herbal Tea,Mint,$131,224,Illinois,110,80,190,36,Decaf
+513,37,12/1/2013,817,133,Major Market,Central,29,1,Leaves,Tea,Darjeeling,$107,236,Ohio,110,70,180,61,Regular
+513,90,12/1/2013,690,186,Major Market,Central,41,1,Leaves,Tea,Earl Grey,$180,341,Ohio,150,90,260,65,Regular
+719,38,12/1/2013,551,104,Major Market,Central,26,1,Leaves,Tea,Green Tea,$98,197,Colorado,90,60,150,38,Regular
+712,-11,12/1/2013,594,14,Small Market,Central,3,1,Beans,Coffee,Decaf Irish Cream,-$1,26,Iowa,20,10,20,15,Decaf
+414,15,12/1/2013,575,112,Small Market,Central,27,1,Beans,Coffee,Decaf Irish Cream,$85,208,Wisconsin,110,70,190,55,Decaf
+573,-1,12/1/2013,619,85,Small Market,Central,25,1,Beans,Coffee,Colombian,$39,163,Missouri,90,40,150,59,Regular
+262,0,12/1/2013,716,145,Small Market,Central,95,1,Beans,Coffee,Colombian,$30,266,Wisconsin,140,30,240,125,Regular
+573,1,12/1/2013,898,73,Small Market,Central,14,1,Beans,Espresso,Caffe Mocha,$71,131,Missouri,90,70,150,25,Regular
+262,-6,12/1/2013,1079,96,Small Market,Central,24,1,Beans,Espresso,Caffe Mocha,$74,188,Wisconsin,120,80,220,46,Regular
+515,121,12/1/2013,1744,329,Small Market,Central,81,1,Leaves,Herbal Tea,Chamomile,$321,614,Iowa,300,200,530,113,Decaf
+515,63,12/1/2013,830,185,Small Market,Central,40,1,Leaves,Herbal Tea,Lemon,$183,332,Iowa,170,120,290,62,Decaf
+641,112,12/1/2013,1820,251,Small Market,Central,70,1,Leaves,Tea,Darjeeling,$232,534,Iowa,200,120,410,95,Regular
+563,151,12/1/2013,1838,360,Small Market,Central,111,1,Leaves,Tea,Earl Grey,$321,697,Iowa,300,170,540,144,Regular
+816,-14,12/1/2013,218,25,Small Market,Central,7,1,Leaves,Tea,Earl Grey,-$24,48,Missouri,20,-10,30,41,Regular
+951,-17,10/1/2012,3654,-24,Major Market,West,50,1,Beans,Coffee,Decaf Irish Cream,-$117,130,California,-30,-100,190,93,Decaf
+714,-15,10/1/2012,1662,341,Major Market,West,84,1,Beans,Espresso,Decaf Espresso,$225,598,California,320,240,550,116,Decaf
+818,-14,10/1/2012,2555,-13,Major Market,West,39,1,Beans,Coffee,Amaretto,-$74,109,California,-20,-60,150,61,Regular
+626,-223,10/1/2012,2548,390,Major Market,West,91,1,Beans,Coffee,Colombian,$247,650,California,580,470,960,143,Regular
+562,-11,10/1/2012,1755,239,Major Market,West,66,1,Beans,Espresso,Caffe Latte,$149,478,California,220,160,430,90,Regular
+562,-23,10/1/2012,898,173,Major Market,West,113,1,Beans,Espresso,Caffe Mocha,$27,298,California,160,50,270,146,Regular
+661,-5,10/1/2012,971,157,Major Market,West,30,1,Leaves,Herbal Tea,Chamomile,$115,265,California,130,120,210,42,Decaf
+562,16,10/1/2012,1246,281,Major Market,West,74,1,Leaves,Herbal Tea,Lemon,$186,520,California,220,170,410,95,Decaf
+562,54,10/1/2012,915,179,Major Market,West,34,1,Leaves,Tea,Darjeeling,$134,302,California,90,80,140,45,Regular
+971,-51,10/1/2012,419,64,Small Market,West,13,1,Beans,Coffee,Decaf Irish Cream,$29,107,Oregon,100,80,150,35,Decaf
+435,-86,10/1/2012,593,98,Small Market,West,30,1,Beans,Coffee,Decaf Irish Cream,$34,177,Utah,160,120,260,64,Decaf
+425,-83,10/1/2012,683,134,Small Market,West,87,1,Beans,Coffee,Decaf Irish Cream,$17,230,Washington,190,100,330,117,Decaf
+503,-19,10/1/2012,1267,161,Small Market,West,45,1,Beans,Espresso,Decaf Espresso,$91,322,Oregon,150,110,290,70,Decaf
+253,-32,10/1/2012,1055,94,Small Market,West,24,1,Beans,Espresso,Decaf Espresso,$48,174,Washington,90,80,150,46,Decaf
+971,-55,10/1/2012,503,71,Small Market,West,46,1,Beans,Coffee,Amaretto,-$5,122,Oregon,100,50,170,76,Regular
+435,-54,10/1/2012,1053,77,Small Market,West,20,1,Beans,Coffee,Amaretto,$36,142,Utah,110,90,200,41,Regular
+971,-69,10/1/2012,463,84,Small Market,West,19,1,Beans,Coffee,Colombian,$21,144,Oregon,130,90,210,63,Regular
+435,-58,10/1/2012,375,64,Small Market,West,15,1,Beans,Coffee,Colombian,$22,111,Utah,100,80,150,42,Regular
+206,-54,10/1/2012,438,99,Small Market,West,21,1,Beans,Coffee,Colombian,$56,167,Washington,140,110,230,43,Regular
+206,-10,10/1/2012,573,29,Small Market,West,7,1,Beans,Espresso,Caffe Latte,$10,51,Washington,20,20,30,19,Regular
+702,-6,10/1/2012,846,31,Small Market,West,5,1,Beans,Espresso,Caffe Mocha,$14,52,Nevada,20,20,30,17,Regular
+801,-23,10/1/2012,564,133,Small Market,West,33,1,Beans,Espresso,Caffe Mocha,$87,236,Utah,130,110,210,46,Regular
+775,-34,10/1/2012,898,173,Small Market,West,113,1,Leaves,Herbal Tea,Chamomile,$26,298,Nevada,150,60,240,147,Decaf
+206,-15,10/1/2012,1119,188,Small Market,West,41,1,Leaves,Herbal Tea,Chamomile,$115,313,Washington,160,130,250,73,Decaf
+702,0,10/1/2012,1132,213,Small Market,West,50,1,Leaves,Herbal Tea,Lemon,$120,367,Nevada,170,120,290,93,Decaf
+971,-17,10/1/2012,572,115,Small Market,West,29,1,Leaves,Herbal Tea,Lemon,$73,205,Oregon,100,90,160,42,Decaf
+702,-16,10/1/2012,789,176,Small Market,West,39,1,Leaves,Herbal Tea,Mint,$114,298,Nevada,150,130,240,62,Decaf
+435,-27,10/1/2012,1698,23,Small Market,West,26,1,Leaves,Herbal Tea,Mint,-$27,109,Utah,20,0,80,50,Decaf
+702,94,10/1/2012,1662,341,Small Market,West,84,1,Leaves,Tea,Darjeeling,$224,598,Nevada,180,130,290,117,Regular
+541,-4,10/1/2012,480,32,Small Market,West,5,1,Leaves,Tea,Darjeeling,$16,53,Oregon,20,20,20,16,Regular
+775,69,10/1/2012,1755,239,Small Market,West,66,1,Leaves,Tea,Earl Grey,$149,478,Nevada,120,80,230,90,Regular
+702,-193,10/1/2012,7058,-255,Small Market,West,96,1,Leaves,Tea,Green Tea,-$363,21,Nevada,-110,-170,0,129,Regular
+435,-22,10/1/2012,209,31,Small Market,West,9,1,Leaves,Tea,Green Tea,-$12,56,Utah,20,10,20,43,Regular
+909,3,11/1/2012,3909,-27,Major Market,West,57,1,Beans,Coffee,Decaf Irish Cream,-$127,146,California,-30,-130,170,100,Decaf
+707,7,11/1/2012,1691,304,Major Market,West,75,1,Beans,Espresso,Decaf Espresso,$197,532,California,290,190,510,107,Decaf
+619,-6,11/1/2012,2758,3,Major Market,West,36,1,Beans,Coffee,Amaretto,-$56,116,California,0,-50,130,59,Regular
+951,-75,11/1/2012,2580,374,Major Market,West,87,1,Beans,Coffee,Colombian,$235,623,California,450,310,740,139,Regular
+559,-11,11/1/2012,1778,212,Major Market,West,59,1,Beans,Espresso,Caffe Latte,$129,423,California,210,140,410,83,Regular
+818,-14,11/1/2012,912,168,Major Market,West,109,1,Beans,Espresso,Caffe Mocha,$26,289,California,170,40,280,142,Regular
+213,4,11/1/2012,984,117,Major Market,West,22,1,Leaves,Herbal Tea,Chamomile,$84,198,California,110,80,180,33,Decaf
+213,14,11/1/2012,1272,265,Major Market,West,69,1,Leaves,Herbal Tea,Lemon,$174,490,California,240,160,450,91,Decaf
+213,18,11/1/2012,930,172,Major Market,West,33,1,Leaves,Tea,Darjeeling,$128,290,California,130,110,210,44,Regular
+801,-22,11/1/2012,601,102,Small Market,West,31,1,Beans,Coffee,Decaf Irish Cream,$38,184,Utah,120,60,210,64,Decaf
+253,-24,11/1/2012,694,130,Small Market,West,85,1,Beans,Coffee,Decaf Irish Cream,$16,224,Washington,150,40,260,114,Decaf
+503,-12,11/1/2012,1283,182,Small Market,West,50,1,Beans,Espresso,Decaf Espresso,$108,363,Oregon,180,120,350,74,Decaf
+801,-11,11/1/2012,1060,81,Small Market,West,21,1,Beans,Coffee,Amaretto,$39,150,Utah,90,50,170,42,Regular
+971,-26,11/1/2012,470,75,Small Market,West,17,1,Beans,Coffee,Colombian,$14,128,Oregon,90,40,150,61,Regular
+425,-20,11/1/2012,446,93,Small Market,West,20,1,Beans,Coffee,Colombian,$50,156,Washington,110,70,180,43,Regular
+775,-1,11/1/2012,848,24,Small Market,West,4,1,Beans,Espresso,Caffe Mocha,$9,39,Nevada,20,10,30,15,Regular
+435,-5,11/1/2012,552,130,Small Market,West,33,1,Beans,Espresso,Caffe Mocha,$85,231,Utah,130,90,220,45,Regular
+775,6,11/1/2012,912,168,Small Market,West,109,1,Leaves,Herbal Tea,Chamomile,$26,289,Nevada,150,20,260,142,Decaf
+206,2,11/1/2012,1134,195,Small Market,West,42,1,Leaves,Herbal Tea,Chamomile,$122,325,Washington,180,120,300,73,Decaf
+702,8,11/1/2012,1150,239,Small Market,West,57,1,Leaves,Herbal Tea,Lemon,$138,412,Nevada,220,130,380,101,Decaf
+971,0,11/1/2012,561,112,Small Market,West,29,1,Leaves,Herbal Tea,Lemon,$70,200,Oregon,100,70,180,42,Decaf
+702,7,11/1/2012,803,165,Small Market,West,36,1,Leaves,Herbal Tea,Mint,$107,278,Nevada,150,100,250,58,Decaf
+702,56,11/1/2012,1691,304,Small Market,West,75,1,Leaves,Tea,Darjeeling,$196,532,Nevada,220,140,380,108,Regular
+702,48,11/1/2012,1778,212,Small Market,West,59,1,Leaves,Tea,Earl Grey,$128,423,Nevada,150,80,300,84,Regular
+971,12,11/1/2012,798,119,Small Market,West,25,1,Leaves,Tea,Earl Grey,$62,197,Oregon,90,50,140,57,Regular
+702,-60,11/1/2012,7653,-245,Small Market,West,93,1,Leaves,Tea,Green Tea,-$340,32,Nevada,-180,-280,0,127,Regular
+971,19,11/1/2012,666,143,Small Market,West,31,1,Leaves,Tea,Green Tea,$89,245,Oregon,100,70,170,54,Regular
+714,1,12/1/2012,4216,-32,Major Market,West,73,1,Beans,Coffee,Decaf Irish Cream,-$149,192,California,-40,-150,220,117,Decaf
+209,6,12/1/2012,1744,329,Major Market,West,81,1,Beans,Espresso,Decaf Espresso,$216,576,California,310,210,550,113,Decaf
+951,2,12/1/2012,2947,-25,Major Market,West,40,1,Beans,Coffee,Amaretto,-$88,102,California,-30,-90,120,63,Regular
+707,-79,12/1/2012,2642,420,Major Market,West,97,1,Beans,Coffee,Colombian,$271,699,California,500,350,830,149,Regular
+916,-3,12/1/2012,1820,251,Major Market,West,70,1,Beans,Espresso,Caffe Latte,$157,501,California,240,160,480,94,Regular
+530,-9,12/1/2012,940,187,Major Market,West,122,1,Beans,Espresso,Caffe Mocha,$31,322,California,180,40,310,156,Regular
+626,9,12/1/2012,1003,124,Major Market,West,24,1,Leaves,Herbal Tea,Chamomile,$89,210,California,110,80,190,35,Decaf
+415,18,12/1/2012,1321,284,Major Market,West,74,1,Leaves,Herbal Tea,Lemon,$188,525,California,260,170,480,96,Decaf
+916,24,12/1/2012,959,179,Major Market,West,34,1,Leaves,Tea,Darjeeling,$134,302,California,130,110,220,45,Regular
+435,-24,12/1/2012,619,85,Small Market,West,25,1,Beans,Coffee,Decaf Irish Cream,$26,153,Utah,100,50,180,59,Decaf
+509,-30,12/1/2012,716,145,Small Market,West,95,1,Beans,Coffee,Decaf Irish Cream,$20,250,Washington,170,50,290,125,Decaf
+971,7,12/1/2012,1319,153,Small Market,West,42,1,Beans,Espresso,Decaf Espresso,$87,306,Oregon,140,80,290,66,Decaf
+253,-9,12/1/2012,1079,96,Small Market,West,24,1,Beans,Espresso,Decaf Espresso,$51,176,Washington,100,60,170,45,Decaf
+435,-14,12/1/2012,1075,76,Small Market,West,19,1,Beans,Coffee,Amaretto,$36,139,Utah,90,50,160,40,Regular
+253,-22,12/1/2012,461,104,Small Market,West,23,1,Beans,Coffee,Colombian,$58,176,Washington,120,80,200,46,Regular
+775,0,12/1/2012,851,25,Small Market,West,4,1,Beans,Espresso,Caffe Mocha,$10,41,Nevada,20,10,30,15,Regular
+435,7,12/1/2012,540,120,Small Market,West,31,1,Beans,Espresso,Caffe Mocha,$77,214,Utah,110,70,200,43,Regular
+702,2,12/1/2012,940,187,Small Market,West,122,1,Leaves,Herbal Tea,Chamomile,$32,322,Nevada,170,30,290,155,Decaf
+509,-5,12/1/2012,1166,174,Small Market,West,37,1,Leaves,Herbal Tea,Chamomile,$105,289,Washington,160,110,260,69,Decaf
+775,24,12/1/2012,1191,310,Small Market,West,73,1,Leaves,Herbal Tea,Lemon,$194,534,Nevada,280,170,490,116,Decaf
+541,-4,12/1/2012,551,104,Small Market,West,26,1,Leaves,Herbal Tea,Lemon,$66,185,Oregon,100,70,170,38,Decaf
+775,2,12/1/2012,830,185,Small Market,West,40,1,Leaves,Herbal Tea,Mint,$122,312,Nevada,170,120,290,63,Decaf
+702,65,12/1/2012,1744,329,Small Market,West,81,1,Leaves,Tea,Darjeeling,$215,576,Nevada,240,150,420,114,Regular
+702,57,12/1/2012,1820,251,Small Market,West,70,1,Leaves,Tea,Earl Grey,$157,501,Nevada,180,100,360,94,Regular
+971,13,12/1/2012,817,133,Small Market,West,29,1,Leaves,Tea,Earl Grey,$73,221,Oregon,100,60,160,60,Regular
+775,-88,12/1/2012,8252,-294,Small Market,West,111,1,Leaves,Tea,Green Tea,-$408,31,Nevada,-210,-320,0,145,Regular
+503,21,12/1/2012,690,186,Small Market,West,41,1,Leaves,Tea,Green Tea,$121,320,Oregon,140,100,230,65,Regular
+435,-15,12/1/2012,218,25,Small Market,West,7,1,Leaves,Tea,Green Tea,-$15,45,Utah,20,0,30,40,Regular
+650,-74,10/1/2013,3654,-24,Major Market,West,50,1,Beans,Coffee,Decaf Irish Cream,-$174,139,California,-30,-100,190,93,Decaf
+415,94,10/1/2013,1662,341,Major Market,West,84,1,Beans,Espresso,Decaf Espresso,$334,637,California,320,240,550,116,Decaf
+909,-50,10/1/2013,2555,-13,Major Market,West,39,1,Beans,Coffee,Amaretto,-$110,116,California,-20,-60,150,61,Regular
+818,-103,10/1/2013,2548,390,Major Market,West,91,1,Beans,Coffee,Colombian,$367,693,California,580,470,960,143,Regular
+714,61,10/1/2013,1755,239,Major Market,West,66,1,Beans,Espresso,Caffe Latte,$221,509,California,220,160,430,90,Regular
+805,-10,10/1/2013,898,173,Major Market,West,113,1,Beans,Espresso,Caffe Mocha,$40,318,California,160,50,270,146,Regular
+925,51,10/1/2013,971,157,Major Market,West,30,1,Leaves,Herbal Tea,Chamomile,$171,282,California,130,120,210,42,Decaf
+951,106,10/1/2013,1246,281,Major Market,West,74,1,Leaves,Herbal Tea,Lemon,$276,554,California,220,170,410,95,Decaf
+831,119,10/1/2013,915,179,Major Market,West,34,1,Leaves,Tea,Darjeeling,$199,322,California,90,80,140,45,Regular
+971,-37,10/1/2013,419,64,Small Market,West,13,1,Beans,Coffee,Decaf Irish Cream,$43,114,Oregon,100,80,150,35,Decaf
+435,-70,10/1/2013,593,98,Small Market,West,30,1,Beans,Coffee,Decaf Irish Cream,$50,189,Utah,160,120,260,64,Decaf
+206,-75,10/1/2013,683,134,Small Market,West,87,1,Beans,Coffee,Decaf Irish Cream,$25,245,Washington,190,100,330,117,Decaf
+503,25,10/1/2013,1267,161,Small Market,West,45,1,Beans,Espresso,Decaf Espresso,$135,343,Oregon,150,110,290,70,Decaf
+360,-9,10/1/2013,1055,94,Small Market,West,24,1,Beans,Espresso,Decaf Espresso,$71,185,Washington,90,80,150,46,Decaf
+503,-57,10/1/2013,503,71,Small Market,West,46,1,Beans,Coffee,Amaretto,-$7,130,Oregon,100,50,170,76,Regular
+435,-37,10/1/2013,1053,77,Small Market,West,20,1,Beans,Coffee,Amaretto,$53,151,Utah,110,90,200,41,Regular
+503,-59,10/1/2013,463,84,Small Market,West,19,1,Beans,Coffee,Colombian,$31,153,Oregon,130,90,210,63,Regular
+435,-47,10/1/2013,375,64,Small Market,West,15,1,Beans,Coffee,Colombian,$33,118,Utah,100,80,150,42,Regular
+360,-27,10/1/2013,438,99,Small Market,West,21,1,Beans,Coffee,Colombian,$83,178,Washington,140,110,230,43,Regular
+206,-5,10/1/2013,573,29,Small Market,West,7,1,Beans,Espresso,Caffe Latte,$15,54,Washington,20,20,30,19,Regular
+775,1,10/1/2013,846,31,Small Market,West,5,1,Beans,Espresso,Caffe Mocha,$21,55,Nevada,20,20,30,17,Regular
+435,19,10/1/2013,564,133,Small Market,West,33,1,Beans,Espresso,Caffe Mocha,$129,251,Utah,130,110,210,46,Regular
+702,-21,10/1/2013,898,173,Small Market,West,113,1,Leaves,Herbal Tea,Chamomile,$39,318,Nevada,150,60,240,147,Decaf
+360,41,10/1/2013,1119,188,Small Market,West,41,1,Leaves,Herbal Tea,Chamomile,$171,334,Washington,160,130,250,73,Decaf
+775,58,10/1/2013,1132,213,Small Market,West,50,1,Leaves,Herbal Tea,Lemon,$178,391,Nevada,170,120,290,93,Decaf
+541,18,10/1/2013,572,115,Small Market,West,29,1,Leaves,Herbal Tea,Lemon,$108,218,Oregon,100,90,160,42,Decaf
+775,39,10/1/2013,789,176,Small Market,West,39,1,Leaves,Herbal Tea,Mint,$169,318,Nevada,150,130,240,62,Decaf
+435,-40,10/1/2013,1698,23,Small Market,West,26,1,Leaves,Herbal Tea,Mint,-$40,116,Utah,20,0,80,50,Decaf
+775,202,10/1/2013,1662,341,Small Market,West,84,1,Leaves,Tea,Darjeeling,$332,637,Nevada,180,130,290,117,Regular
+971,4,10/1/2013,480,32,Small Market,West,5,1,Leaves,Tea,Darjeeling,$24,56,Oregon,20,20,20,16,Regular
+775,141,10/1/2013,1755,239,Small Market,West,66,1,Leaves,Tea,Earl Grey,$221,509,Nevada,120,80,230,90,Regular
+702,-369,10/1/2013,7058,-255,Small Market,West,96,1,Leaves,Tea,Green Tea,-$539,22,Nevada,-110,-170,0,129,Regular
+435,-28,10/1/2013,209,31,Small Market,West,9,1,Leaves,Tea,Green Tea,-$18,60,Utah,20,10,20,43,Regular
+626,-58,11/1/2013,3909,-27,Major Market,West,57,1,Beans,Coffee,Decaf Irish Cream,-$188,156,California,-30,-130,170,100,Decaf
+213,102,11/1/2013,1691,304,Major Market,West,75,1,Beans,Espresso,Decaf Espresso,$292,567,California,290,190,510,107,Decaf
+916,-33,11/1/2013,2758,3,Major Market,West,36,1,Beans,Coffee,Amaretto,-$83,124,California,0,-50,130,59,Regular
+213,39,11/1/2013,2580,374,Major Market,West,87,1,Beans,Coffee,Colombian,$349,664,California,450,310,740,139,Regular
+951,51,11/1/2013,1778,212,Major Market,West,59,1,Beans,Espresso,Caffe Latte,$191,451,California,210,140,410,83,Regular
+916,-1,11/1/2013,912,168,Major Market,West,109,1,Beans,Espresso,Caffe Mocha,$39,308,California,170,40,280,142,Regular
+760,45,11/1/2013,984,117,Major Market,West,22,1,Leaves,Herbal Tea,Chamomile,$125,211,California,110,80,180,33,Decaf
+510,98,11/1/2013,1272,265,Major Market,West,69,1,Leaves,Herbal Tea,Lemon,$258,522,California,240,160,450,91,Decaf
+805,80,11/1/2013,930,172,Major Market,West,33,1,Leaves,Tea,Darjeeling,$190,309,California,130,110,210,44,Regular
+435,-4,11/1/2013,601,102,Small Market,West,31,1,Beans,Coffee,Decaf Irish Cream,$56,196,Utah,120,60,210,64,Decaf
+509,-16,11/1/2013,694,130,Small Market,West,85,1,Beans,Coffee,Decaf Irish Cream,$24,239,Washington,150,40,260,114,Decaf
+971,40,11/1/2013,1283,182,Small Market,West,50,1,Beans,Espresso,Decaf Espresso,$160,387,Oregon,180,120,350,74,Decaf
+435,8,11/1/2013,1060,81,Small Market,West,21,1,Beans,Coffee,Amaretto,$58,160,Utah,90,50,170,42,Regular
+541,-19,11/1/2013,470,75,Small Market,West,17,1,Beans,Coffee,Colombian,$21,136,Oregon,90,40,150,61,Regular
+253,4,11/1/2013,446,93,Small Market,West,20,1,Beans,Coffee,Colombian,$74,166,Washington,110,70,180,43,Regular
+775,3,11/1/2013,848,24,Small Market,West,4,1,Beans,Espresso,Caffe Mocha,$13,42,Nevada,20,10,30,15,Regular
+801,36,11/1/2013,552,130,Small Market,West,33,1,Beans,Espresso,Caffe Mocha,$126,246,Utah,130,90,220,45,Regular
+702,19,11/1/2013,912,168,Small Market,West,109,1,Leaves,Herbal Tea,Chamomile,$39,308,Nevada,150,20,260,142,Decaf
+206,61,11/1/2013,1134,195,Small Market,West,42,1,Leaves,Herbal Tea,Chamomile,$181,346,Washington,180,120,300,73,Decaf
+702,75,11/1/2013,1150,239,Small Market,West,57,1,Leaves,Herbal Tea,Lemon,$205,439,Nevada,220,130,380,101,Decaf
+541,34,11/1/2013,561,112,Small Market,West,29,1,Leaves,Herbal Tea,Lemon,$104,213,Oregon,100,70,180,42,Decaf
+775,59,11/1/2013,803,165,Small Market,West,36,1,Leaves,Herbal Tea,Mint,$159,296,Nevada,150,100,250,58,Decaf
+775,151,11/1/2013,1691,304,Small Market,West,75,1,Leaves,Tea,Darjeeling,$291,567,Nevada,220,140,380,108,Regular
+702,110,11/1/2013,1778,212,Small Market,West,59,1,Leaves,Tea,Earl Grey,$190,451,Nevada,150,80,300,84,Regular
+503,42,11/1/2013,798,119,Small Market,West,25,1,Leaves,Tea,Earl Grey,$92,210,Oregon,90,50,140,57,Regular
+775,-225,11/1/2013,7653,-245,Small Market,West,93,1,Leaves,Tea,Green Tea,-$505,34,Nevada,-180,-280,0,127,Regular
+971,62,11/1/2013,666,143,Small Market,West,31,1,Leaves,Tea,Green Tea,$132,261,Oregon,100,70,170,54,Regular
+951,-71,12/1/2013,4216,-32,Major Market,West,73,1,Beans,Coffee,Decaf Irish Cream,-$221,205,California,-40,-150,220,117,Decaf
+209,111,12/1/2013,1744,329,Major Market,West,81,1,Beans,Espresso,Decaf Espresso,$321,614,California,310,210,550,113,Decaf
+209,-41,12/1/2013,2947,-25,Major Market,West,40,1,Beans,Coffee,Amaretto,-$131,109,California,-30,-90,120,63,Regular
+530,52,12/1/2013,2642,420,Major Market,West,97,1,Beans,Coffee,Colombian,$402,745,California,500,350,830,149,Regular
+949,73,12/1/2013,1820,251,Major Market,West,70,1,Beans,Espresso,Caffe Latte,$233,534,California,240,160,480,94,Regular
+530,6,12/1/2013,940,187,Major Market,West,122,1,Beans,Espresso,Caffe Mocha,$46,343,California,180,40,310,156,Regular
+916,52,12/1/2013,1003,124,Major Market,West,24,1,Leaves,Herbal Tea,Chamomile,$132,224,California,110,80,190,35,Decaf
+661,109,12/1/2013,1321,284,Major Market,West,74,1,Leaves,Herbal Tea,Lemon,$279,559,California,260,170,480,96,Decaf
+323,89,12/1/2013,959,179,Major Market,West,34,1,Leaves,Tea,Darjeeling,$199,322,California,130,110,220,45,Regular
+801,-11,12/1/2013,619,85,Small Market,West,25,1,Beans,Coffee,Decaf Irish Cream,$39,163,Utah,100,50,180,59,Decaf
+206,-20,12/1/2013,716,145,Small Market,West,95,1,Beans,Coffee,Decaf Irish Cream,$30,266,Washington,170,50,290,125,Decaf
+971,49,12/1/2013,1319,153,Small Market,West,42,1,Beans,Espresso,Decaf Espresso,$129,326,Oregon,140,80,290,66,Decaf
+360,16,12/1/2013,1079,96,Small Market,West,24,1,Beans,Espresso,Decaf Espresso,$76,188,Washington,100,60,170,45,Decaf
+435,3,12/1/2013,1075,76,Small Market,West,19,1,Beans,Coffee,Amaretto,$53,148,Utah,90,50,160,40,Regular
+360,6,12/1/2013,461,104,Small Market,West,23,1,Beans,Coffee,Colombian,$86,188,Washington,120,80,200,46,Regular
+775,5,12/1/2013,851,25,Small Market,West,4,1,Beans,Espresso,Caffe Mocha,$15,44,Nevada,20,10,30,15,Regular
+435,44,12/1/2013,540,120,Small Market,West,31,1,Beans,Espresso,Caffe Mocha,$114,228,Utah,110,70,200,43,Regular
+702,17,12/1/2013,940,187,Small Market,West,122,1,Leaves,Herbal Tea,Chamomile,$47,343,Nevada,170,30,290,155,Decaf
+253,46,12/1/2013,1166,174,Small Market,West,37,1,Leaves,Herbal Tea,Chamomile,$156,308,Washington,160,110,260,69,Decaf
+702,118,12/1/2013,1191,310,Small Market,West,73,1,Leaves,Herbal Tea,Lemon,$288,569,Nevada,280,170,490,116,Decaf
+503,28,12/1/2013,551,104,Small Market,West,26,1,Leaves,Herbal Tea,Lemon,$98,197,Oregon,100,70,170,38,Decaf
+775,61,12/1/2013,830,185,Small Market,West,40,1,Leaves,Herbal Tea,Mint,$181,332,Nevada,170,120,290,63,Decaf
+775,169,12/1/2013,1744,329,Small Market,West,81,1,Leaves,Tea,Darjeeling,$319,614,Nevada,240,150,420,114,Regular
+775,133,12/1/2013,1820,251,Small Market,West,70,1,Leaves,Tea,Earl Grey,$233,534,Nevada,180,100,360,94,Regular
+971,48,12/1/2013,817,133,Small Market,West,29,1,Leaves,Tea,Earl Grey,$108,236,Oregon,100,60,160,60,Regular
+775,-285,12/1/2013,8252,-294,Small Market,West,111,1,Leaves,Tea,Green Tea,-$605,33,Nevada,-210,-320,0,145,Regular
+503,80,12/1/2013,690,186,Small Market,West,41,1,Leaves,Tea,Green Tea,$180,341,Oregon,140,100,230,65,Regular
+435,-22,12/1/2013,218,25,Small Market,West,7,1,Leaves,Tea,Green Tea,-$22,48,Utah,20,0,30,40,Regular
