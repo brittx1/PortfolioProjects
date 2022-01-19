@@ -11,3 +11,5 @@ StockX analysis using Microsoft SQL Server
  
  
  CC's Coffee Chain Data Exploration using Big Query
+ 
+ *R Studio Projects in PDF form will be added once I am able to access my R Studio account they may be accessed using the link on my site 
