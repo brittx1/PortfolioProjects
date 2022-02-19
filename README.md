@@ -14,7 +14,4 @@ StockX analysis using Microsoft SQL Server
  
  Nashville Housing Data Cleaning Project 
  
- 
- BellaBeat Case Study using Rstudio
- 
- *Rstudio Portfolio  available using link on my website: https://brittny1212.wixsite.com/site
+
