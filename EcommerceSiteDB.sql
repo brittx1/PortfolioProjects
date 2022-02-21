@@ -229,3 +229,4 @@ Exec OrderQuantity @MinQuantity = 3, @MaxQuantity = 6
 --- What orders had an order quantity between 0 and 3 
 
 Exec OrderQuantity @MaxQuantity = 3
+---6 orders had an order quantity between 0 amd 3
