@@ -1,13 +1,5 @@
 /****** Script for SelectTopNRows command from SSMS  ******/
-SELECT TOP (1000) [Ordered]
-      ,[Brand]
-      ,[Sneaker]
-      ,[Sale_Price]
-      ,[Retail_Price]
-      ,[Released]
-      ,[Size]
-      ,[Buyer_Region]
-  FROM [StockX].[dbo].['StockX-Data-2019$']
+
 
   /* Questions: 
 
@@ -71,7 +63,7 @@ from Profits)
 
 Select Sneaker, count(*) as Sold
 from Margins 
-where Profit_Margin < '0%' --- -0% is the worst profit margin 
+where Profit_Margin < '0%' --- 0% is the worst profit margin 
 group by Sneaker
 order by Sold desc
 
@@ -168,4 +160,5 @@ from Margins
 group by Buyer_Region
 order by Avg_Profit_Margins Desc
 
----- sellers selling to those from Delaware, Hawaii, Oregon have the highest Profit Margins from the sale and Wyoming has the lowest 
+---- sellers selling to those in Delaware, Hawaii, Oregon have the highest profit margins from the sale
+--- Sellers selling to customers in Wyoming have the lowest profit margins
