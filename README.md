@@ -14,4 +14,4 @@ StockX analysis using Microsoft SQL Server
  
  Nashville Housing Data Cleaning Project 
  
-
+EcommerceSiteDB - Created database for (fake) Ecommerce Site with stored procedures and parameters
